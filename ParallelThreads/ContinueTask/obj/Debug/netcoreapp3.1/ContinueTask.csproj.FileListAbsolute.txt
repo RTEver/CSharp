@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\bin\Debug\netcoreapp3.1\ContinueTask.exe
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\bin\Debug\netcoreapp3.1\ContinueTask.deps.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\bin\Debug\netcoreapp3.1\ContinueTask.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\bin\Debug\netcoreapp3.1\ContinueTask.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\bin\Debug\netcoreapp3.1\ContinueTask.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\bin\Debug\netcoreapp3.1\ContinueTask.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\obj\Debug\netcoreapp3.1\ContinueTask.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\obj\Debug\netcoreapp3.1\ContinueTask.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\obj\Debug\netcoreapp3.1\ContinueTask.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\obj\Debug\netcoreapp3.1\ContinueTask.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\obj\Debug\netcoreapp3.1\ContinueTask.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\obj\Debug\netcoreapp3.1\ContinueTask.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ContinueTask\obj\Debug\netcoreapp3.1\ContinueTask.genruntimeconfig.cache

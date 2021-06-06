@@ -1,0 +1,16 @@
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\bin\Debug\netcoreapp3.1\ConsoleTanks.exe
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\bin\Debug\netcoreapp3.1\ConsoleTanks.deps.json
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\bin\Debug\netcoreapp3.1\ConsoleTanks.runtimeconfig.json
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\bin\Debug\netcoreapp3.1\ConsoleTanks.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\bin\Debug\netcoreapp3.1\ConsoleTanks.dll
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\bin\Debug\netcoreapp3.1\ConsoleTanks.pdb
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\bin\Debug\netcoreapp3.1\Tanks.dll
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\bin\Debug\netcoreapp3.1\Tanks.pdb
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\obj\Debug\netcoreapp3.1\ConsoleTanks.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\obj\Debug\netcoreapp3.1\ConsoleTanks.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\obj\Debug\netcoreapp3.1\ConsoleTanks.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\obj\Debug\netcoreapp3.1\ConsoleTanks.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\obj\Debug\netcoreapp3.1\ConsoleTanks.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\obj\Debug\netcoreapp3.1\ConsoleTanks.dll
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\obj\Debug\netcoreapp3.1\ConsoleTanks.pdb
+C:\Users\Phoenix\Desktop\Patterns\Decorator\ConsoleTanks\obj\Debug\netcoreapp3.1\ConsoleTanks.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.exe
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.deps.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\bin\Debug\netcoreapp3.1\WorkWithTask.exe
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\bin\Debug\netcoreapp3.1\WorkWithTask.deps.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\bin\Debug\netcoreapp3.1\WorkWithTask.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\bin\Debug\netcoreapp3.1\WorkWithTask.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\bin\Debug\netcoreapp3.1\WorkWithTask.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\bin\Debug\netcoreapp3.1\WorkWithTask.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\obj\Debug\netcoreapp3.1\WorkWithTask.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\obj\Debug\netcoreapp3.1\WorkWithTask.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\obj\Debug\netcoreapp3.1\WorkWithTask.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\obj\Debug\netcoreapp3.1\WorkWithTask.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\obj\Debug\netcoreapp3.1\WorkWithTask.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\obj\Debug\netcoreapp3.1\WorkWithTask.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\WorkWithTask\obj\Debug\netcoreapp3.1\WorkWithTask.genruntimeconfig.cache

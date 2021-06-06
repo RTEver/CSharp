@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\bin\Debug\netcoreapp3.1\AsyncMethods_async_await_3.exe
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\bin\Debug\netcoreapp3.1\AsyncMethods_async_await_3.deps.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\bin\Debug\netcoreapp3.1\AsyncMethods_async_await_3.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\bin\Debug\netcoreapp3.1\AsyncMethods_async_await_3.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\bin\Debug\netcoreapp3.1\AsyncMethods_async_await_3.dll
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\bin\Debug\netcoreapp3.1\AsyncMethods_async_await_3.pdb
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\obj\Debug\netcoreapp3.1\AsyncMethods_async_await_3.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\obj\Debug\netcoreapp3.1\AsyncMethods_async_await_3.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\obj\Debug\netcoreapp3.1\AsyncMethods_async_await_3.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\obj\Debug\netcoreapp3.1\AsyncMethods_async_await_3.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\obj\Debug\netcoreapp3.1\AsyncMethods_async_await_3.dll
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\obj\Debug\netcoreapp3.1\AsyncMethods_async_await_3.pdb
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await_3\obj\Debug\netcoreapp3.1\AsyncMethods_async_await_3.genruntimeconfig.cache

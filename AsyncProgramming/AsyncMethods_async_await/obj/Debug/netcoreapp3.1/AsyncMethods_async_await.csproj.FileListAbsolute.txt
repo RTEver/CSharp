@@ -1,0 +1,13 @@
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\bin\Debug\netcoreapp3.1\AsyncMethods_async_await.exe
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\bin\Debug\netcoreapp3.1\AsyncMethods_async_await.deps.json
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\bin\Debug\netcoreapp3.1\AsyncMethods_async_await.runtimeconfig.json
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\bin\Debug\netcoreapp3.1\AsyncMethods_async_await.runtimeconfig.dev.json
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\bin\Debug\netcoreapp3.1\AsyncMethods_async_await.dll
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\bin\Debug\netcoreapp3.1\AsyncMethods_async_await.pdb
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\obj\Debug\netcoreapp3.1\AsyncMethods_async_await.csprojAssemblyReference.cache
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\obj\Debug\netcoreapp3.1\AsyncMethods_async_await.AssemblyInfoInputs.cache
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\obj\Debug\netcoreapp3.1\AsyncMethods_async_await.AssemblyInfo.cs
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\obj\Debug\netcoreapp3.1\AsyncMethods_async_await.csproj.CoreCompileInputs.cache
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\obj\Debug\netcoreapp3.1\AsyncMethods_async_await.dll
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\obj\Debug\netcoreapp3.1\AsyncMethods_async_await.pdb
+C:\Users\Titan\Desktop\CSharp\AsyncProgramming\AsyncMethods_async_await\obj\Debug\netcoreapp3.1\AsyncMethods_async_await.genruntimeconfig.cache

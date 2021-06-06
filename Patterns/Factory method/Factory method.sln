@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{418B99CD-18A2-480A-9E15-9FB23F0703E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodTestLibrary", "Libraries\FactoryMethodTestLibrary\FactoryMethodTestLibrary.csproj", "{C489D312-009D-4DB4-A33B-7973210A587E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPattertFactoryMethod", "TestPattertFactoryMethod\TestPattertFactoryMethod.csproj", "{D4FAF8BA-EAE7-4A13-AC3B-5A1B1CBF2925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C489D312-009D-4DB4-A33B-7973210A587E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C489D312-009D-4DB4-A33B-7973210A587E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C489D312-009D-4DB4-A33B-7973210A587E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C489D312-009D-4DB4-A33B-7973210A587E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4FAF8BA-EAE7-4A13-AC3B-5A1B1CBF2925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FAF8BA-EAE7-4A13-AC3B-5A1B1CBF2925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FAF8BA-EAE7-4A13-AC3B-5A1B1CBF2925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FAF8BA-EAE7-4A13-AC3B-5A1B1CBF2925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C489D312-009D-4DB4-A33B-7973210A587E} = {418B99CD-18A2-480A-9E15-9FB23F0703E4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0184390F-7A94-4653-AE4C-257552D168EA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\bin\Debug\netcoreapp3.1\ParallelFeatures.exe
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\bin\Debug\netcoreapp3.1\ParallelFeatures.deps.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\bin\Debug\netcoreapp3.1\ParallelFeatures.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\bin\Debug\netcoreapp3.1\ParallelFeatures.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\bin\Debug\netcoreapp3.1\ParallelFeatures.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\bin\Debug\netcoreapp3.1\ParallelFeatures.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\obj\Debug\netcoreapp3.1\ParallelFeatures.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\obj\Debug\netcoreapp3.1\ParallelFeatures.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\obj\Debug\netcoreapp3.1\ParallelFeatures.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\obj\Debug\netcoreapp3.1\ParallelFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\obj\Debug\netcoreapp3.1\ParallelFeatures.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\obj\Debug\netcoreapp3.1\ParallelFeatures.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelFeatures\obj\Debug\netcoreapp3.1\ParallelFeatures.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\bin\Debug\netcoreapp3.1\Async_streams.exe
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\bin\Debug\netcoreapp3.1\Async_streams.deps.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\bin\Debug\netcoreapp3.1\Async_streams.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\bin\Debug\netcoreapp3.1\Async_streams.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\bin\Debug\netcoreapp3.1\Async_streams.dll
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\bin\Debug\netcoreapp3.1\Async_streams.pdb
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\obj\Debug\netcoreapp3.1\Async_streams.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\obj\Debug\netcoreapp3.1\Async_streams.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\obj\Debug\netcoreapp3.1\Async_streams.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\obj\Debug\netcoreapp3.1\Async_streams.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\obj\Debug\netcoreapp3.1\Async_streams.dll
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\obj\Debug\netcoreapp3.1\Async_streams.pdb
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Async_streams\obj\Debug\netcoreapp3.1\Async_streams.genruntimeconfig.cache

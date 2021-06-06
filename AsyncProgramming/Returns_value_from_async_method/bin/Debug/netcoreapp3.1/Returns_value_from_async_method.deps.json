@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Returns_value_from_async_method/1.0.0": {
+        "runtime": {
+          "Returns_value_from_async_method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Returns_value_from_async_method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

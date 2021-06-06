@@ -1,0 +1,12 @@
+C:\Users\Titan\Desktop\Threads\Timer\bin\Debug\netcoreapp3.1\Timer.exe
+C:\Users\Titan\Desktop\Threads\Timer\bin\Debug\netcoreapp3.1\Timer.deps.json
+C:\Users\Titan\Desktop\Threads\Timer\bin\Debug\netcoreapp3.1\Timer.runtimeconfig.json
+C:\Users\Titan\Desktop\Threads\Timer\bin\Debug\netcoreapp3.1\Timer.runtimeconfig.dev.json
+C:\Users\Titan\Desktop\Threads\Timer\bin\Debug\netcoreapp3.1\Timer.dll
+C:\Users\Titan\Desktop\Threads\Timer\bin\Debug\netcoreapp3.1\Timer.pdb
+C:\Users\Titan\Desktop\Threads\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfoInputs.cache
+C:\Users\Titan\Desktop\Threads\Timer\obj\Debug\netcoreapp3.1\Timer.AssemblyInfo.cs
+C:\Users\Titan\Desktop\Threads\Timer\obj\Debug\netcoreapp3.1\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Titan\Desktop\Threads\Timer\obj\Debug\netcoreapp3.1\Timer.dll
+C:\Users\Titan\Desktop\Threads\Timer\obj\Debug\netcoreapp3.1\Timer.pdb
+C:\Users\Titan\Desktop\Threads\Timer\obj\Debug\netcoreapp3.1\Timer.genruntimeconfig.cache

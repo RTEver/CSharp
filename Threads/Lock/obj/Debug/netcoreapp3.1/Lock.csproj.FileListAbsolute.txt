@@ -1,0 +1,12 @@
+C:\Users\Titan\Desktop\Threads\Lock\bin\Debug\netcoreapp3.1\Lock.exe
+C:\Users\Titan\Desktop\Threads\Lock\bin\Debug\netcoreapp3.1\Lock.deps.json
+C:\Users\Titan\Desktop\Threads\Lock\bin\Debug\netcoreapp3.1\Lock.runtimeconfig.json
+C:\Users\Titan\Desktop\Threads\Lock\bin\Debug\netcoreapp3.1\Lock.runtimeconfig.dev.json
+C:\Users\Titan\Desktop\Threads\Lock\bin\Debug\netcoreapp3.1\Lock.dll
+C:\Users\Titan\Desktop\Threads\Lock\bin\Debug\netcoreapp3.1\Lock.pdb
+C:\Users\Titan\Desktop\Threads\Lock\obj\Debug\netcoreapp3.1\Lock.AssemblyInfoInputs.cache
+C:\Users\Titan\Desktop\Threads\Lock\obj\Debug\netcoreapp3.1\Lock.AssemblyInfo.cs
+C:\Users\Titan\Desktop\Threads\Lock\obj\Debug\netcoreapp3.1\Lock.csproj.CoreCompileInputs.cache
+C:\Users\Titan\Desktop\Threads\Lock\obj\Debug\netcoreapp3.1\Lock.dll
+C:\Users\Titan\Desktop\Threads\Lock\obj\Debug\netcoreapp3.1\Lock.pdb
+C:\Users\Titan\Desktop\Threads\Lock\obj\Debug\netcoreapp3.1\Lock.genruntimeconfig.cache

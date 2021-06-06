@@ -1,0 +1,10 @@
+C:\Users\Phoenix\Desktop\Patterns\Factory method\TestPattertFactoryMethod\bin\Debug\TestPattertFactoryMethod.exe.config
+C:\Users\Phoenix\Desktop\Patterns\Factory method\TestPattertFactoryMethod\bin\Debug\TestPattertFactoryMethod.exe
+C:\Users\Phoenix\Desktop\Patterns\Factory method\TestPattertFactoryMethod\bin\Debug\TestPattertFactoryMethod.pdb
+C:\Users\Phoenix\Desktop\Patterns\Factory method\TestPattertFactoryMethod\bin\Debug\FactoryMethodTestLibrary.dll
+C:\Users\Phoenix\Desktop\Patterns\Factory method\TestPattertFactoryMethod\bin\Debug\FactoryMethodTestLibrary.pdb
+C:\Users\Phoenix\Desktop\Patterns\Factory method\TestPattertFactoryMethod\obj\Debug\TestPattertFactoryMethod.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Patterns\Factory method\TestPattertFactoryMethod\obj\Debug\TestPattertFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\Patterns\Factory method\TestPattertFactoryMethod\obj\Debug\TestPattertFactoryMethod.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\Patterns\Factory method\TestPattertFactoryMethod\obj\Debug\TestPattertFactoryMethod.exe
+C:\Users\Phoenix\Desktop\Patterns\Factory method\TestPattertFactoryMethod\obj\Debug\TestPattertFactoryMethod.pdb

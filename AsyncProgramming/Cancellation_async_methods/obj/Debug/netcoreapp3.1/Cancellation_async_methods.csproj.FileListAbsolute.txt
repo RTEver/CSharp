@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\obj\Debug\netcoreapp3.1\Cancellation_async_methods.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\obj\Debug\netcoreapp3.1\Cancellation_async_methods.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\obj\Debug\netcoreapp3.1\Cancellation_async_methods.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\obj\Debug\netcoreapp3.1\Cancellation_async_methods.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\bin\Debug\netcoreapp3.1\Cancellation_async_methods.exe
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\bin\Debug\netcoreapp3.1\Cancellation_async_methods.deps.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\bin\Debug\netcoreapp3.1\Cancellation_async_methods.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\bin\Debug\netcoreapp3.1\Cancellation_async_methods.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\bin\Debug\netcoreapp3.1\Cancellation_async_methods.dll
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\bin\Debug\netcoreapp3.1\Cancellation_async_methods.pdb
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\obj\Debug\netcoreapp3.1\Cancellation_async_methods.dll
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\obj\Debug\netcoreapp3.1\Cancellation_async_methods.pdb
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Cancellation_async_methods\obj\Debug\netcoreapp3.1\Cancellation_async_methods.genruntimeconfig.cache

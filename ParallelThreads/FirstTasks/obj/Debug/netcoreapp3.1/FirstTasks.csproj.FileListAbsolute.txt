@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\bin\Debug\netcoreapp3.1\FirstTasks.exe
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\bin\Debug\netcoreapp3.1\FirstTasks.deps.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\bin\Debug\netcoreapp3.1\FirstTasks.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\bin\Debug\netcoreapp3.1\FirstTasks.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\bin\Debug\netcoreapp3.1\FirstTasks.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\bin\Debug\netcoreapp3.1\FirstTasks.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\obj\Debug\netcoreapp3.1\FirstTasks.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\obj\Debug\netcoreapp3.1\FirstTasks.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\obj\Debug\netcoreapp3.1\FirstTasks.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\obj\Debug\netcoreapp3.1\FirstTasks.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\obj\Debug\netcoreapp3.1\FirstTasks.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\obj\Debug\netcoreapp3.1\FirstTasks.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\FirstTasks\obj\Debug\netcoreapp3.1\FirstTasks.genruntimeconfig.cache

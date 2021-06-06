@@ -1,0 +1,13 @@
+C:\Users\Titan\Desktop\Threads\Mutex\bin\Debug\netcoreapp3.1\Mutex.exe
+C:\Users\Titan\Desktop\Threads\Mutex\bin\Debug\netcoreapp3.1\Mutex.deps.json
+C:\Users\Titan\Desktop\Threads\Mutex\bin\Debug\netcoreapp3.1\Mutex.runtimeconfig.json
+C:\Users\Titan\Desktop\Threads\Mutex\bin\Debug\netcoreapp3.1\Mutex.runtimeconfig.dev.json
+C:\Users\Titan\Desktop\Threads\Mutex\bin\Debug\netcoreapp3.1\Mutex.dll
+C:\Users\Titan\Desktop\Threads\Mutex\bin\Debug\netcoreapp3.1\Mutex.pdb
+C:\Users\Titan\Desktop\Threads\Mutex\obj\Debug\netcoreapp3.1\Mutex.csprojAssemblyReference.cache
+C:\Users\Titan\Desktop\Threads\Mutex\obj\Debug\netcoreapp3.1\Mutex.AssemblyInfoInputs.cache
+C:\Users\Titan\Desktop\Threads\Mutex\obj\Debug\netcoreapp3.1\Mutex.AssemblyInfo.cs
+C:\Users\Titan\Desktop\Threads\Mutex\obj\Debug\netcoreapp3.1\Mutex.csproj.CoreCompileInputs.cache
+C:\Users\Titan\Desktop\Threads\Mutex\obj\Debug\netcoreapp3.1\Mutex.dll
+C:\Users\Titan\Desktop\Threads\Mutex\obj\Debug\netcoreapp3.1\Mutex.pdb
+C:\Users\Titan\Desktop\Threads\Mutex\obj\Debug\netcoreapp3.1\Mutex.genruntimeconfig.cache

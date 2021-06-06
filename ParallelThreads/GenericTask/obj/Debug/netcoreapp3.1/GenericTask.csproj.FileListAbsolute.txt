@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\bin\Debug\netcoreapp3.1\GenericTask.exe
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\bin\Debug\netcoreapp3.1\GenericTask.deps.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\bin\Debug\netcoreapp3.1\GenericTask.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\bin\Debug\netcoreapp3.1\GenericTask.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\bin\Debug\netcoreapp3.1\GenericTask.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\bin\Debug\netcoreapp3.1\GenericTask.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\obj\Debug\netcoreapp3.1\GenericTask.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\obj\Debug\netcoreapp3.1\GenericTask.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\obj\Debug\netcoreapp3.1\GenericTask.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\obj\Debug\netcoreapp3.1\GenericTask.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\obj\Debug\netcoreapp3.1\GenericTask.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\obj\Debug\netcoreapp3.1\GenericTask.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\GenericTask\obj\Debug\netcoreapp3.1\GenericTask.genruntimeconfig.cache

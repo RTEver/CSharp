@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleTanks/1.0.0": {
+        "dependencies": {
+          "Tanks": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleTanks.dll": {}
+        }
+      },
+      "Tanks/1.0.0": {
+        "runtime": {
+          "Tanks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTanks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tanks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

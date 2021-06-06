@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exceptions_in_async_methods/1.0.0": {
+        "runtime": {
+          "Exceptions_in_async_methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exceptions_in_async_methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

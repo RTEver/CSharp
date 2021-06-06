@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\bin\Debug\netcoreapp3.1\ParallelCancellationToken.exe
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\bin\Debug\netcoreapp3.1\ParallelCancellationToken.deps.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\bin\Debug\netcoreapp3.1\ParallelCancellationToken.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\bin\Debug\netcoreapp3.1\ParallelCancellationToken.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\bin\Debug\netcoreapp3.1\ParallelCancellationToken.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\bin\Debug\netcoreapp3.1\ParallelCancellationToken.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\obj\Debug\netcoreapp3.1\ParallelCancellationToken.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\obj\Debug\netcoreapp3.1\ParallelCancellationToken.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\obj\Debug\netcoreapp3.1\ParallelCancellationToken.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\obj\Debug\netcoreapp3.1\ParallelCancellationToken.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\obj\Debug\netcoreapp3.1\ParallelCancellationToken.dll
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\obj\Debug\netcoreapp3.1\ParallelCancellationToken.pdb
+C:\Users\Phoenix\Desktop\CSharp\ParallelThreads\ParallelCancellationToken\obj\Debug\netcoreapp3.1\ParallelCancellationToken.genruntimeconfig.cache

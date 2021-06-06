@@ -1,0 +1,12 @@
+C:\Users\Titan\Desktop\Threads\Semaphor\bin\Debug\netcoreapp3.1\Semaphore.exe
+C:\Users\Titan\Desktop\Threads\Semaphor\bin\Debug\netcoreapp3.1\Semaphore.deps.json
+C:\Users\Titan\Desktop\Threads\Semaphor\bin\Debug\netcoreapp3.1\Semaphore.runtimeconfig.json
+C:\Users\Titan\Desktop\Threads\Semaphor\bin\Debug\netcoreapp3.1\Semaphore.runtimeconfig.dev.json
+C:\Users\Titan\Desktop\Threads\Semaphor\bin\Debug\netcoreapp3.1\Semaphore.dll
+C:\Users\Titan\Desktop\Threads\Semaphor\bin\Debug\netcoreapp3.1\Semaphore.pdb
+C:\Users\Titan\Desktop\Threads\Semaphor\obj\Debug\netcoreapp3.1\Semaphore.AssemblyInfoInputs.cache
+C:\Users\Titan\Desktop\Threads\Semaphor\obj\Debug\netcoreapp3.1\Semaphore.AssemblyInfo.cs
+C:\Users\Titan\Desktop\Threads\Semaphor\obj\Debug\netcoreapp3.1\Semaphore.csproj.CoreCompileInputs.cache
+C:\Users\Titan\Desktop\Threads\Semaphor\obj\Debug\netcoreapp3.1\Semaphore.dll
+C:\Users\Titan\Desktop\Threads\Semaphor\obj\Debug\netcoreapp3.1\Semaphore.pdb
+C:\Users\Titan\Desktop\Threads\Semaphor\obj\Debug\netcoreapp3.1\Semaphore.genruntimeconfig.cache

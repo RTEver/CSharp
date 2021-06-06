@@ -1,0 +1,6 @@
+C:\Users\Phoenix\Desktop\Patterns\Factory method\Libraries\FactoryMethodTestLibrary\bin\Debug\FactoryMethodTestLibrary.dll
+C:\Users\Phoenix\Desktop\Patterns\Factory method\Libraries\FactoryMethodTestLibrary\bin\Debug\FactoryMethodTestLibrary.pdb
+C:\Users\Phoenix\Desktop\Patterns\Factory method\Libraries\FactoryMethodTestLibrary\obj\Debug\FactoryMethodTestLibrary.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Patterns\Factory method\Libraries\FactoryMethodTestLibrary\obj\Debug\FactoryMethodTestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\Patterns\Factory method\Libraries\FactoryMethodTestLibrary\obj\Debug\FactoryMethodTestLibrary.dll
+C:\Users\Phoenix\Desktop\Patterns\Factory method\Libraries\FactoryMethodTestLibrary\obj\Debug\FactoryMethodTestLibrary.pdb

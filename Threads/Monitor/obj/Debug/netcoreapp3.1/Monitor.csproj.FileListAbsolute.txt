@@ -1,0 +1,13 @@
+C:\Users\Titan\Desktop\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.exe
+C:\Users\Titan\Desktop\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.deps.json
+C:\Users\Titan\Desktop\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.runtimeconfig.json
+C:\Users\Titan\Desktop\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.runtimeconfig.dev.json
+C:\Users\Titan\Desktop\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.dll
+C:\Users\Titan\Desktop\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.pdb
+C:\Users\Titan\Desktop\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.csprojAssemblyReference.cache
+C:\Users\Titan\Desktop\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.AssemblyInfoInputs.cache
+C:\Users\Titan\Desktop\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.AssemblyInfo.cs
+C:\Users\Titan\Desktop\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Titan\Desktop\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.dll
+C:\Users\Titan\Desktop\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.pdb
+C:\Users\Titan\Desktop\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.genruntimeconfig.cache

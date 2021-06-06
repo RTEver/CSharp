@@ -1,0 +1,9 @@
+C:\Users\Phoenix\Desktop\Patterns\Decorator\Libraries\Tanks\bin\Debug\netcoreapp3.1\Tanks.deps.json
+C:\Users\Phoenix\Desktop\Patterns\Decorator\Libraries\Tanks\bin\Debug\netcoreapp3.1\Tanks.dll
+C:\Users\Phoenix\Desktop\Patterns\Decorator\Libraries\Tanks\bin\Debug\netcoreapp3.1\Tanks.pdb
+C:\Users\Phoenix\Desktop\Patterns\Decorator\Libraries\Tanks\obj\Debug\netcoreapp3.1\Tanks.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Patterns\Decorator\Libraries\Tanks\obj\Debug\netcoreapp3.1\Tanks.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\Patterns\Decorator\Libraries\Tanks\obj\Debug\netcoreapp3.1\Tanks.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\Patterns\Decorator\Libraries\Tanks\obj\Debug\netcoreapp3.1\Tanks.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\Patterns\Decorator\Libraries\Tanks\obj\Debug\netcoreapp3.1\Tanks.dll
+C:\Users\Phoenix\Desktop\Patterns\Decorator\Libraries\Tanks\obj\Debug\netcoreapp3.1\Tanks.pdb

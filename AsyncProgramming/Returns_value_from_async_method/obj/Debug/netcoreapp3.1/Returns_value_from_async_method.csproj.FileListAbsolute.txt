@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\bin\Debug\netcoreapp3.1\Returns_value_from_async_method.exe
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\bin\Debug\netcoreapp3.1\Returns_value_from_async_method.deps.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\bin\Debug\netcoreapp3.1\Returns_value_from_async_method.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\bin\Debug\netcoreapp3.1\Returns_value_from_async_method.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\bin\Debug\netcoreapp3.1\Returns_value_from_async_method.dll
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\bin\Debug\netcoreapp3.1\Returns_value_from_async_method.pdb
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\obj\Debug\netcoreapp3.1\Returns_value_from_async_method.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\obj\Debug\netcoreapp3.1\Returns_value_from_async_method.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\obj\Debug\netcoreapp3.1\Returns_value_from_async_method.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\obj\Debug\netcoreapp3.1\Returns_value_from_async_method.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\obj\Debug\netcoreapp3.1\Returns_value_from_async_method.dll
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\obj\Debug\netcoreapp3.1\Returns_value_from_async_method.pdb
+C:\Users\Phoenix\Desktop\CSharp\AsyncProgramming\Returns_value_from_async_method\obj\Debug\netcoreapp3.1\Returns_value_from_async_method.genruntimeconfig.cache
