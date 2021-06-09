@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\bin\Debug\netcoreapp3.1\Filtering_and_projection.exe
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\bin\Debug\netcoreapp3.1\Filtering_and_projection.deps.json
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\bin\Debug\netcoreapp3.1\Filtering_and_projection.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\bin\Debug\netcoreapp3.1\Filtering_and_projection.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\bin\Debug\netcoreapp3.1\Filtering_and_projection.dll
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\bin\Debug\netcoreapp3.1\Filtering_and_projection.pdb
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\obj\Debug\netcoreapp3.1\Filtering_and_projection.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\obj\Debug\netcoreapp3.1\Filtering_and_projection.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\obj\Debug\netcoreapp3.1\Filtering_and_projection.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\obj\Debug\netcoreapp3.1\Filtering_and_projection.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\obj\Debug\netcoreapp3.1\Filtering_and_projection.dll
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\obj\Debug\netcoreapp3.1\Filtering_and_projection.pdb
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Filtering_and_projection\obj\Debug\netcoreapp3.1\Filtering_and_projection.genruntimeconfig.cache

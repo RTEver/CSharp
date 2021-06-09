@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
+C:\Users\Phoenix\Desktop\CSharp\LINQ\LINQ to Objects\Basics\obj\Debug\netcoreapp3.1\Basics.genruntimeconfig.cache
