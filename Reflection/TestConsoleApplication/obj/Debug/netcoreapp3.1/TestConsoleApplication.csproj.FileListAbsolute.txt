@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\bin\Debug\netcoreapp3.1\TestConsoleApplication.exe
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\bin\Debug\netcoreapp3.1\TestConsoleApplication.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\bin\Debug\netcoreapp3.1\TestConsoleApplication.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\bin\Debug\netcoreapp3.1\TestConsoleApplication.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\bin\Debug\netcoreapp3.1\TestConsoleApplication.dll
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\bin\Debug\netcoreapp3.1\TestConsoleApplication.pdb
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\obj\Debug\netcoreapp3.1\TestConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\obj\Debug\netcoreapp3.1\TestConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\obj\Debug\netcoreapp3.1\TestConsoleApplication.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\obj\Debug\netcoreapp3.1\TestConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\obj\Debug\netcoreapp3.1\TestConsoleApplication.dll
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\obj\Debug\netcoreapp3.1\TestConsoleApplication.pdb
+C:\Users\Phoenix\Desktop\CSharp\Reflection\TestConsoleApplication\obj\Debug\netcoreapp3.1\TestConsoleApplication.genruntimeconfig.cache

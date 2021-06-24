@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\bin\Debug\netcoreapp3.1\LateBinding.exe
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\bin\Debug\netcoreapp3.1\LateBinding.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\bin\Debug\netcoreapp3.1\LateBinding.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\bin\Debug\netcoreapp3.1\LateBinding.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\bin\Debug\netcoreapp3.1\LateBinding.dll
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\bin\Debug\netcoreapp3.1\LateBinding.pdb
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\obj\Debug\netcoreapp3.1\LateBinding.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\obj\Debug\netcoreapp3.1\LateBinding.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\obj\Debug\netcoreapp3.1\LateBinding.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\obj\Debug\netcoreapp3.1\LateBinding.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\obj\Debug\netcoreapp3.1\LateBinding.dll
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\obj\Debug\netcoreapp3.1\LateBinding.pdb
+C:\Users\Phoenix\Desktop\CSharp\Reflection\LateBinding\obj\Debug\netcoreapp3.1\LateBinding.genruntimeconfig.cache

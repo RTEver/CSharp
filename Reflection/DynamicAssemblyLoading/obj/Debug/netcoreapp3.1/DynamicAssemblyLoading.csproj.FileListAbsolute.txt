@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\bin\Debug\netcoreapp3.1\DynamicAssemblyLoading.exe
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\bin\Debug\netcoreapp3.1\DynamicAssemblyLoading.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\bin\Debug\netcoreapp3.1\DynamicAssemblyLoading.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\bin\Debug\netcoreapp3.1\DynamicAssemblyLoading.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\bin\Debug\netcoreapp3.1\DynamicAssemblyLoading.dll
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\bin\Debug\netcoreapp3.1\DynamicAssemblyLoading.pdb
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\obj\Debug\netcoreapp3.1\DynamicAssemblyLoading.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\obj\Debug\netcoreapp3.1\DynamicAssemblyLoading.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\obj\Debug\netcoreapp3.1\DynamicAssemblyLoading.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\obj\Debug\netcoreapp3.1\DynamicAssemblyLoading.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\obj\Debug\netcoreapp3.1\DynamicAssemblyLoading.dll
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\obj\Debug\netcoreapp3.1\DynamicAssemblyLoading.pdb
+C:\Users\Phoenix\Desktop\CSharp\Reflection\DynamicAssemblyLoading\obj\Debug\netcoreapp3.1\DynamicAssemblyLoading.genruntimeconfig.cache

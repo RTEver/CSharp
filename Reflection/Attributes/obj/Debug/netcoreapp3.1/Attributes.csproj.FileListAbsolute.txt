@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\bin\Debug\netcoreapp3.1\Attributes.exe
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\bin\Debug\netcoreapp3.1\Attributes.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\bin\Debug\netcoreapp3.1\Attributes.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\bin\Debug\netcoreapp3.1\Attributes.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\bin\Debug\netcoreapp3.1\Attributes.dll
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\bin\Debug\netcoreapp3.1\Attributes.pdb
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\obj\Debug\netcoreapp3.1\Attributes.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\obj\Debug\netcoreapp3.1\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\obj\Debug\netcoreapp3.1\Attributes.dll
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\obj\Debug\netcoreapp3.1\Attributes.pdb
+C:\Users\Phoenix\Desktop\CSharp\Reflection\Attributes\obj\Debug\netcoreapp3.1\Attributes.genruntimeconfig.cache
