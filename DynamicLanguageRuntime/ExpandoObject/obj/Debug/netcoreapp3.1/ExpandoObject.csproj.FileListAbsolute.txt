@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\bin\Debug\netcoreapp3.1\ExpandoObject.exe
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\bin\Debug\netcoreapp3.1\ExpandoObject.deps.json
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\bin\Debug\netcoreapp3.1\ExpandoObject.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\bin\Debug\netcoreapp3.1\ExpandoObject.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\bin\Debug\netcoreapp3.1\ExpandoObject.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\bin\Debug\netcoreapp3.1\ExpandoObject.pdb
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\obj\Debug\netcoreapp3.1\ExpandoObject.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\obj\Debug\netcoreapp3.1\ExpandoObject.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\obj\Debug\netcoreapp3.1\ExpandoObject.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\obj\Debug\netcoreapp3.1\ExpandoObject.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\obj\Debug\netcoreapp3.1\ExpandoObject.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\obj\Debug\netcoreapp3.1\ExpandoObject.pdb
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\ExpandoObject\obj\Debug\netcoreapp3.1\ExpandoObject.genruntimeconfig.cache

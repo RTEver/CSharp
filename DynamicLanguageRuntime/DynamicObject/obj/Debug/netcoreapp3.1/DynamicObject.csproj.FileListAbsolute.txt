@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.exe
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.deps.json
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\bin\Debug\netcoreapp3.1\DynamicObject.pdb
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.pdb
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\DynamicObject\obj\Debug\netcoreapp3.1\DynamicObject.genruntimeconfig.cache

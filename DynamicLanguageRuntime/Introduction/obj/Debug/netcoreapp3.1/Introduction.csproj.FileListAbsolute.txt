@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\bin\Debug\netcoreapp3.1\Introduction.exe
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\bin\Debug\netcoreapp3.1\Introduction.deps.json
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\bin\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\bin\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\obj\Debug\netcoreapp3.1\Introduction.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\obj\Debug\netcoreapp3.1\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\obj\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\obj\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\Introduction\obj\Debug\netcoreapp3.1\Introduction.genruntimeconfig.cache

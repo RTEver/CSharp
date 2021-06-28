@@ -1,0 +1,25 @@
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\IronPython(.NET Framework).exe.config
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\IronPython(.NET Framework).exe
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\IronPython(.NET Framework).pdb
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\IronPython.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\IronPython.Modules.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\IronPython.SQLite.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\IronPython.Wpf.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\IronPython.xml
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\IronPython.Modules.xml
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\IronPython.SQLite.xml
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\IronPython.Wpf.xml
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\obj\Debug\IronPython(.NET Framework).csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\obj\Debug\IronPython(.NET Framework).csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\obj\Debug\IronPython(.NET Framework).csproj.CopyComplete
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\obj\Debug\IronPython(.NET Framework).exe
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\obj\Debug\IronPython(.NET Framework).pdb
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\Python scripts\HelloWorld.py
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\Python scripts\ScopeExample.py
+C:\Users\Phoenix\Desktop\CSharp\DynamicLanguageRuntime\IronPython(.NET Framework)\bin\Debug\Python scripts\factorial.py
