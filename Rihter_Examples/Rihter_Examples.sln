@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work_with_symbol_and_text_elements_in_string", "Work_with_symbol_and_text_elements_in_string\Work_with_symbol_and_text_elements_in_string.csproj", "{3B192CEE-DA3B-4529-A2B8-B025D10A7C05}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringFormats", "StringFormats\StringFormats.csproj", "{4AA58E3C-4C47-4655-A997-032B49DA6E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encoding_Examples", "Encoding_Examples\Encoding_Examples.csproj", "{C64D038C-9CA1-4765-82D2-8AF2B66A96AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3B192CEE-DA3B-4529-A2B8-B025D10A7C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B192CEE-DA3B-4529-A2B8-B025D10A7C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B192CEE-DA3B-4529-A2B8-B025D10A7C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA58E3C-4C47-4655-A997-032B49DA6E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA58E3C-4C47-4655-A997-032B49DA6E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA58E3C-4C47-4655-A997-032B49DA6E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA58E3C-4C47-4655-A997-032B49DA6E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64D038C-9CA1-4765-82D2-8AF2B66A96AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64D038C-9CA1-4765-82D2-8AF2B66A96AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64D038C-9CA1-4765-82D2-8AF2B66A96AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64D038C-9CA1-4765-82D2-8AF2B66A96AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

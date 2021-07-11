@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\bin\Debug\netcoreapp3.1\Encoding_Examples.exe
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\bin\Debug\netcoreapp3.1\Encoding_Examples.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\bin\Debug\netcoreapp3.1\Encoding_Examples.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\bin\Debug\netcoreapp3.1\Encoding_Examples.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\bin\Debug\netcoreapp3.1\Encoding_Examples.dll
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\bin\Debug\netcoreapp3.1\Encoding_Examples.pdb
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\obj\Debug\netcoreapp3.1\Encoding_Examples.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\obj\Debug\netcoreapp3.1\Encoding_Examples.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\obj\Debug\netcoreapp3.1\Encoding_Examples.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\obj\Debug\netcoreapp3.1\Encoding_Examples.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\obj\Debug\netcoreapp3.1\Encoding_Examples.dll
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\obj\Debug\netcoreapp3.1\Encoding_Examples.pdb
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Encoding_Examples\obj\Debug\netcoreapp3.1\Encoding_Examples.genruntimeconfig.cache

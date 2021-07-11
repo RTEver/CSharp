@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\bin\Debug\netcoreapp3.1\StringFormats.exe
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\bin\Debug\netcoreapp3.1\StringFormats.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\bin\Debug\netcoreapp3.1\StringFormats.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\bin\Debug\netcoreapp3.1\StringFormats.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\bin\Debug\netcoreapp3.1\StringFormats.dll
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\bin\Debug\netcoreapp3.1\StringFormats.pdb
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\obj\Debug\netcoreapp3.1\StringFormats.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\obj\Debug\netcoreapp3.1\StringFormats.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\obj\Debug\netcoreapp3.1\StringFormats.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\obj\Debug\netcoreapp3.1\StringFormats.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\obj\Debug\netcoreapp3.1\StringFormats.dll
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\obj\Debug\netcoreapp3.1\StringFormats.pdb
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\StringFormats\obj\Debug\netcoreapp3.1\StringFormats.genruntimeconfig.cache
