@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\bin\Debug\netcoreapp3.1\Work_with_Directories.exe
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\bin\Debug\netcoreapp3.1\Work_with_Directories.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\bin\Debug\netcoreapp3.1\Work_with_Directories.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\bin\Debug\netcoreapp3.1\Work_with_Directories.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\bin\Debug\netcoreapp3.1\Work_with_Directories.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\bin\Debug\netcoreapp3.1\Work_with_Directories.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\obj\Debug\netcoreapp3.1\Work_with_Directories.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\obj\Debug\netcoreapp3.1\Work_with_Directories.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\obj\Debug\netcoreapp3.1\Work_with_Directories.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\obj\Debug\netcoreapp3.1\Work_with_Directories.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\obj\Debug\netcoreapp3.1\Work_with_Directories.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\obj\Debug\netcoreapp3.1\Work_with_Directories.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Directories\obj\Debug\netcoreapp3.1\Work_with_Directories.genruntimeconfig.cache

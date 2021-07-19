@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\bin\Debug\netcoreapp3.1\Pointers.exe
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\bin\Debug\netcoreapp3.1\Pointers.deps.json
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\bin\Debug\netcoreapp3.1\Pointers.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\bin\Debug\netcoreapp3.1\Pointers.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\bin\Debug\netcoreapp3.1\Pointers.dll
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\bin\Debug\netcoreapp3.1\Pointers.pdb
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\obj\Debug\netcoreapp3.1\Pointers.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\obj\Debug\netcoreapp3.1\Pointers.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\obj\Debug\netcoreapp3.1\Pointers.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\obj\Debug\netcoreapp3.1\Pointers.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\obj\Debug\netcoreapp3.1\Pointers.dll
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\obj\Debug\netcoreapp3.1\Pointers.pdb
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\Pointers\obj\Debug\netcoreapp3.1\Pointers.genruntimeconfig.cache

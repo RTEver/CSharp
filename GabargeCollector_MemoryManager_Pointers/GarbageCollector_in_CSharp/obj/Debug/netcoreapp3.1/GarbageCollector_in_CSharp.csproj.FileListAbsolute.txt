@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\bin\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.exe
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\bin\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.deps.json
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\bin\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\bin\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\bin\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.dll
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\bin\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.pdb
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\obj\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\obj\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\obj\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\obj\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\obj\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.dll
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\obj\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.pdb
+C:\Users\Phoenix\Desktop\CSharp\GabargeCollector_MemoryManager_Pointers\GarbageCollector_in_CSharp\obj\Debug\netcoreapp3.1\GarbageCollector_in_CSharp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\obj\Debug\netcoreapp3.1\Secure_String.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\obj\Debug\netcoreapp3.1\Secure_String.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\obj\Debug\netcoreapp3.1\Secure_String.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\obj\Debug\netcoreapp3.1\Secure_String.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\bin\Debug\netcoreapp3.1\Secure_String.exe
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\bin\Debug\netcoreapp3.1\Secure_String.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\bin\Debug\netcoreapp3.1\Secure_String.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\bin\Debug\netcoreapp3.1\Secure_String.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\bin\Debug\netcoreapp3.1\Secure_String.dll
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\bin\Debug\netcoreapp3.1\Secure_String.pdb
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\obj\Debug\netcoreapp3.1\Secure_String.dll
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\obj\Debug\netcoreapp3.1\Secure_String.pdb
+C:\Users\Phoenix\Desktop\CSharp\Rihter_Examples\Secure_String\obj\Debug\netcoreapp3.1\Secure_String.genruntimeconfig.cache

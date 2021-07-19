@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pointers_on_Structures_and_Classes_and_Arrays/1.0.0": {
+        "runtime": {
+          "Pointers_on_Structures_and_Classes_and_Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pointers_on_Structures_and_Classes_and_Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

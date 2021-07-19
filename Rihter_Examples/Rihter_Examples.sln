@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work_with_symbol_and_text_e
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringFormats", "StringFormats\StringFormats.csproj", "{4AA58E3C-4C47-4655-A997-032B49DA6E8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encoding_Examples", "Encoding_Examples\Encoding_Examples.csproj", "{C64D038C-9CA1-4765-82D2-8AF2B66A96AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encoding_Examples", "Encoding_Examples\Encoding_Examples.csproj", "{C64D038C-9CA1-4765-82D2-8AF2B66A96AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secure_String", "Secure_String\Secure_String.csproj", "{2C13E929-8C08-42AF-B653-FD1F7C73CD58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C64D038C-9CA1-4765-82D2-8AF2B66A96AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C64D038C-9CA1-4765-82D2-8AF2B66A96AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C64D038C-9CA1-4765-82D2-8AF2B66A96AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C13E929-8C08-42AF-B653-FD1F7C73CD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C13E929-8C08-42AF-B653-FD1F7C73CD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C13E929-8C08-42AF-B653-FD1F7C73CD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C13E929-8C08-42AF-B653-FD1F7C73CD58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

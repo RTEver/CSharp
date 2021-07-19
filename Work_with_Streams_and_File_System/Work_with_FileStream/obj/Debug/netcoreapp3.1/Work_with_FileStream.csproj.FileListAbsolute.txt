@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\bin\Debug\netcoreapp3.1\Work_with_FileStream.exe
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\bin\Debug\netcoreapp3.1\Work_with_FileStream.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\bin\Debug\netcoreapp3.1\Work_with_FileStream.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\bin\Debug\netcoreapp3.1\Work_with_FileStream.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\bin\Debug\netcoreapp3.1\Work_with_FileStream.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\bin\Debug\netcoreapp3.1\Work_with_FileStream.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\obj\Debug\netcoreapp3.1\Work_with_FileStream.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\obj\Debug\netcoreapp3.1\Work_with_FileStream.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\obj\Debug\netcoreapp3.1\Work_with_FileStream.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\obj\Debug\netcoreapp3.1\Work_with_FileStream.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\obj\Debug\netcoreapp3.1\Work_with_FileStream.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\obj\Debug\netcoreapp3.1\Work_with_FileStream.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_FileStream\obj\Debug\netcoreapp3.1\Work_with_FileStream.genruntimeconfig.cache

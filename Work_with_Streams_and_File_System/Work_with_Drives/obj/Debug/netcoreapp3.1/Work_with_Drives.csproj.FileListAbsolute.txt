@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\bin\Debug\netcoreapp3.1\Work_with_Drives.exe
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\bin\Debug\netcoreapp3.1\Work_with_Drives.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\bin\Debug\netcoreapp3.1\Work_with_Drives.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\bin\Debug\netcoreapp3.1\Work_with_Drives.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\bin\Debug\netcoreapp3.1\Work_with_Drives.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\bin\Debug\netcoreapp3.1\Work_with_Drives.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\obj\Debug\netcoreapp3.1\Work_with_Drives.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\obj\Debug\netcoreapp3.1\Work_with_Drives.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\obj\Debug\netcoreapp3.1\Work_with_Drives.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\obj\Debug\netcoreapp3.1\Work_with_Drives.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\obj\Debug\netcoreapp3.1\Work_with_Drives.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\obj\Debug\netcoreapp3.1\Work_with_Drives.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_Drives\obj\Debug\netcoreapp3.1\Work_with_Drives.genruntimeconfig.cache
