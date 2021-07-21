@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\bin\Debug\netcoreapp3.1\Work_with_GZipStream.exe
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\bin\Debug\netcoreapp3.1\Work_with_GZipStream.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\bin\Debug\netcoreapp3.1\Work_with_GZipStream.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\bin\Debug\netcoreapp3.1\Work_with_GZipStream.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\bin\Debug\netcoreapp3.1\Work_with_GZipStream.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\bin\Debug\netcoreapp3.1\Work_with_GZipStream.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\obj\Debug\netcoreapp3.1\Work_with_GZipStream.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\obj\Debug\netcoreapp3.1\Work_with_GZipStream.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\obj\Debug\netcoreapp3.1\Work_with_GZipStream.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\obj\Debug\netcoreapp3.1\Work_with_GZipStream.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\obj\Debug\netcoreapp3.1\Work_with_GZipStream.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\obj\Debug\netcoreapp3.1\Work_with_GZipStream.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_GZipStream\obj\Debug\netcoreapp3.1\Work_with_GZipStream.genruntimeconfig.cache

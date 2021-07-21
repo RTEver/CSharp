@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\bin\Debug\netcoreapp3.1\Work_with_DeflateStream.exe
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\bin\Debug\netcoreapp3.1\Work_with_DeflateStream.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\bin\Debug\netcoreapp3.1\Work_with_DeflateStream.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\bin\Debug\netcoreapp3.1\Work_with_DeflateStream.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\bin\Debug\netcoreapp3.1\Work_with_DeflateStream.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\bin\Debug\netcoreapp3.1\Work_with_DeflateStream.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\obj\Debug\netcoreapp3.1\Work_with_DeflateStream.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\obj\Debug\netcoreapp3.1\Work_with_DeflateStream.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\obj\Debug\netcoreapp3.1\Work_with_DeflateStream.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\obj\Debug\netcoreapp3.1\Work_with_DeflateStream.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\obj\Debug\netcoreapp3.1\Work_with_DeflateStream.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\obj\Debug\netcoreapp3.1\Work_with_DeflateStream.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_DeflateStream\obj\Debug\netcoreapp3.1\Work_with_DeflateStream.genruntimeconfig.cache

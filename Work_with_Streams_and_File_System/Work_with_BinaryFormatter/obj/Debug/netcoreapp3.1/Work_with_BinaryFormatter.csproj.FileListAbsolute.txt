@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\bin\Debug\netcoreapp3.1\Work_with_BinaryFormatter.exe
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\bin\Debug\netcoreapp3.1\Work_with_BinaryFormatter.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\bin\Debug\netcoreapp3.1\Work_with_BinaryFormatter.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\bin\Debug\netcoreapp3.1\Work_with_BinaryFormatter.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\bin\Debug\netcoreapp3.1\Work_with_BinaryFormatter.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\bin\Debug\netcoreapp3.1\Work_with_BinaryFormatter.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\obj\Debug\netcoreapp3.1\Work_with_BinaryFormatter.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\obj\Debug\netcoreapp3.1\Work_with_BinaryFormatter.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\obj\Debug\netcoreapp3.1\Work_with_BinaryFormatter.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\obj\Debug\netcoreapp3.1\Work_with_BinaryFormatter.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\obj\Debug\netcoreapp3.1\Work_with_BinaryFormatter.dll
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\obj\Debug\netcoreapp3.1\Work_with_BinaryFormatter.pdb
+C:\Users\Phoenix\Desktop\CSharp\Work_with_Streams_and_File_System\Work_with_BinaryFormatter\obj\Debug\netcoreapp3.1\Work_with_BinaryFormatter.genruntimeconfig.cache
