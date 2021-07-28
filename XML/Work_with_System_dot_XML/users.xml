@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users>
+  <user name="Bill Gates">
+    <company>Microsoft</company>
+    <age>21</age>
+  </user>
+  <user name="Vasya Pupkin">
+    <company>Apple</company>
+    <age>12</age>
+  </user>
+</users>

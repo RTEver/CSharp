@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user name="Vasya Pupkin">
+    <company>Apple</company>
+    <age>12</age>
+  </user>
+  <user name="Alexey">
+    <company>Apple</company>
+    <age>11</age>
+  </user>
+</users>

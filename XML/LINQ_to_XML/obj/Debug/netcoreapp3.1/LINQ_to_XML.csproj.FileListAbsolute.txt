@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\bin\Debug\netcoreapp3.1\LINQ_to_XML.exe
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\bin\Debug\netcoreapp3.1\LINQ_to_XML.deps.json
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\bin\Debug\netcoreapp3.1\LINQ_to_XML.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\bin\Debug\netcoreapp3.1\LINQ_to_XML.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\bin\Debug\netcoreapp3.1\LINQ_to_XML.dll
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\bin\Debug\netcoreapp3.1\LINQ_to_XML.pdb
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\obj\Debug\netcoreapp3.1\LINQ_to_XML.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\obj\Debug\netcoreapp3.1\LINQ_to_XML.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\obj\Debug\netcoreapp3.1\LINQ_to_XML.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\obj\Debug\netcoreapp3.1\LINQ_to_XML.dll
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\obj\Debug\netcoreapp3.1\LINQ_to_XML.pdb
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\obj\Debug\netcoreapp3.1\LINQ_to_XML.genruntimeconfig.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\LINQ_to_XML\obj\Debug\netcoreapp3.1\LINQ_to_XML.csproj.AssemblyReference.cache

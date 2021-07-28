@@ -1,0 +1,14 @@
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\bin\Debug\netcoreapp3.1\Work_with_XPath.exe
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\bin\Debug\netcoreapp3.1\Work_with_XPath.deps.json
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\bin\Debug\netcoreapp3.1\Work_with_XPath.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\bin\Debug\netcoreapp3.1\Work_with_XPath.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\bin\Debug\netcoreapp3.1\Work_with_XPath.dll
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\bin\Debug\netcoreapp3.1\Work_with_XPath.pdb
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\obj\Debug\netcoreapp3.1\Work_with_XPath.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\obj\Debug\netcoreapp3.1\Work_with_XPath.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\obj\Debug\netcoreapp3.1\Work_with_XPath.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\obj\Debug\netcoreapp3.1\Work_with_XPath.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\obj\Debug\netcoreapp3.1\Work_with_XPath.dll
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\obj\Debug\netcoreapp3.1\Work_with_XPath.pdb
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\obj\Debug\netcoreapp3.1\Work_with_XPath.genruntimeconfig.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XPath\bin\Debug\netcoreapp3.1\users.xml

@@ -1,0 +1,14 @@
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\bin\Debug\netcoreapp3.1\users.xml
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\bin\Debug\netcoreapp3.1\Work_with_System_dot_XML.exe
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\bin\Debug\netcoreapp3.1\Work_with_System_dot_XML.deps.json
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\bin\Debug\netcoreapp3.1\Work_with_System_dot_XML.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\bin\Debug\netcoreapp3.1\Work_with_System_dot_XML.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\bin\Debug\netcoreapp3.1\Work_with_System_dot_XML.dll
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\bin\Debug\netcoreapp3.1\Work_with_System_dot_XML.pdb
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\obj\Debug\netcoreapp3.1\Work_with_System_dot_XML.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\obj\Debug\netcoreapp3.1\Work_with_System_dot_XML.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\obj\Debug\netcoreapp3.1\Work_with_System_dot_XML.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\obj\Debug\netcoreapp3.1\Work_with_System_dot_XML.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\obj\Debug\netcoreapp3.1\Work_with_System_dot_XML.dll
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\obj\Debug\netcoreapp3.1\Work_with_System_dot_XML.pdb
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_System_dot_XML\obj\Debug\netcoreapp3.1\Work_with_System_dot_XML.genruntimeconfig.cache

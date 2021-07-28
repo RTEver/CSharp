@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\bin\Debug\netcoreapp3.1\Work_with_XmlSerializer.exe
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\bin\Debug\netcoreapp3.1\Work_with_XmlSerializer.deps.json
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\bin\Debug\netcoreapp3.1\Work_with_XmlSerializer.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\bin\Debug\netcoreapp3.1\Work_with_XmlSerializer.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\bin\Debug\netcoreapp3.1\Work_with_XmlSerializer.dll
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\bin\Debug\netcoreapp3.1\Work_with_XmlSerializer.pdb
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\obj\Debug\netcoreapp3.1\Work_with_XmlSerializer.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\obj\Debug\netcoreapp3.1\Work_with_XmlSerializer.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\obj\Debug\netcoreapp3.1\Work_with_XmlSerializer.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\obj\Debug\netcoreapp3.1\Work_with_XmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\obj\Debug\netcoreapp3.1\Work_with_XmlSerializer.dll
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\obj\Debug\netcoreapp3.1\Work_with_XmlSerializer.pdb
+C:\Users\Phoenix\Desktop\CSharp\XML\Work_with_XmlSerializer\obj\Debug\netcoreapp3.1\Work_with_XmlSerializer.genruntimeconfig.cache
