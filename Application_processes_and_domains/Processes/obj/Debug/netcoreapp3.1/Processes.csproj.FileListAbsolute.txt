@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\bin\Debug\netcoreapp3.1\Processes.exe
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\bin\Debug\netcoreapp3.1\Processes.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\bin\Debug\netcoreapp3.1\Processes.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\bin\Debug\netcoreapp3.1\Processes.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\bin\Debug\netcoreapp3.1\Processes.dll
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\bin\Debug\netcoreapp3.1\Processes.pdb
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\obj\Debug\netcoreapp3.1\Processes.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\obj\Debug\netcoreapp3.1\Processes.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\obj\Debug\netcoreapp3.1\Processes.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\obj\Debug\netcoreapp3.1\Processes.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\obj\Debug\netcoreapp3.1\Processes.dll
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\obj\Debug\netcoreapp3.1\Processes.pdb
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Processes\obj\Debug\netcoreapp3.1\Processes.genruntimeconfig.cache

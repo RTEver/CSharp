@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\bin\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.exe
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\bin\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\bin\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\bin\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\bin\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.dll
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\bin\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.pdb
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\obj\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\obj\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\obj\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\obj\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\obj\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.dll
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\obj\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.pdb
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\Work_with_AssemblyLoadContext\obj\Debug\netcoreapp3.1\Work_with_AssemblyLoadContext.genruntimeconfig.cache

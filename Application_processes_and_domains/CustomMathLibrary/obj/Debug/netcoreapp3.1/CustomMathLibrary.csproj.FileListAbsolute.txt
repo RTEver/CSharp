@@ -1,0 +1,9 @@
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\CustomMathLibrary\bin\Debug\netcoreapp3.1\CustomMathLibrary.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\CustomMathLibrary\bin\Debug\netcoreapp3.1\CustomMathLibrary.dll
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\CustomMathLibrary\bin\Debug\netcoreapp3.1\CustomMathLibrary.pdb
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\CustomMathLibrary\obj\Debug\netcoreapp3.1\CustomMathLibrary.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\CustomMathLibrary\obj\Debug\netcoreapp3.1\CustomMathLibrary.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\CustomMathLibrary\obj\Debug\netcoreapp3.1\CustomMathLibrary.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\CustomMathLibrary\obj\Debug\netcoreapp3.1\CustomMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\CustomMathLibrary\obj\Debug\netcoreapp3.1\CustomMathLibrary.dll
+C:\Users\Phoenix\Desktop\CSharp\Application_processes_and_domains\CustomMathLibrary\obj\Debug\netcoreapp3.1\CustomMathLibrary.pdb
