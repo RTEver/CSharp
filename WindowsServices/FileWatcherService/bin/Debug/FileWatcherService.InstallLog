@@ -1,0 +1,21 @@
+﻿Выполняется установка сборки 'C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление сборки 'C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.exe
+   logfile = C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.

@@ -1,0 +1,7 @@
+C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.exe.config
+C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.exe
+C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\bin\Debug\FileWatcherService.pdb
+C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\obj\Debug\FileWatcherService.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\obj\Debug\FileWatcherService.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\obj\Debug\FileWatcherService.exe
+C:\Users\Phoenix\Desktop\CSharp\WindowsServices\FileWatcherService\obj\Debug\FileWatcherService.pdb

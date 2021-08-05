@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.ServiceProcess;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FileWatcherService
 {
-    static class Program
+    internal static class Program : Object
     {
         /// <summary>
         /// Главная точка входа для приложения.
@@ -15,10 +11,12 @@ namespace FileWatcherService
         static void Main()
         {
             ServiceBase[] ServicesToRun;
+
             ServicesToRun = new ServiceBase[]
             {
                 new Service()
             };
+
             ServiceBase.Run(ServicesToRun);
         }
     }
