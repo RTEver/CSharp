@@ -11,3 +11,16 @@ C:\Users\Titan\Desktop\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.csproj.Co
 C:\Users\Titan\Desktop\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.dll
 C:\Users\Titan\Desktop\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.pdb
 C:\Users\Titan\Desktop\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.genruntimeconfig.cache
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.exe
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.dll
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\bin\Debug\netcoreapp3.1\Monitor.pdb
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.dll
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.pdb
+C:\Users\Phoenix\Desktop\CSharp\Threads\Monitor\obj\Debug\netcoreapp3.1\Monitor.genruntimeconfig.cache
