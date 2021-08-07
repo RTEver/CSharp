@@ -1,0 +1,15 @@
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\bin\Debug\netcoreapp3.1\CreateValidationAttributes.exe
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\bin\Debug\netcoreapp3.1\CreateValidationAttributes.deps.json
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\bin\Debug\netcoreapp3.1\CreateValidationAttributes.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\bin\Debug\netcoreapp3.1\CreateValidationAttributes.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\bin\Debug\netcoreapp3.1\CreateValidationAttributes.dll
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\bin\Debug\netcoreapp3.1\CreateValidationAttributes.pdb
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\obj\Debug\netcoreapp3.1\CreateValidationAttributes.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\obj\Debug\netcoreapp3.1\CreateValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\obj\Debug\netcoreapp3.1\CreateValidationAttributes.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\obj\Debug\netcoreapp3.1\CreateValidationAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\obj\Debug\netcoreapp3.1\CreateValidationAttributes.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\obj\Debug\netcoreapp3.1\CreateValidationAttributes.dll
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\obj\Debug\netcoreapp3.1\CreateValidationAttributes.pdb
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\CreateValidationAttributes\obj\Debug\netcoreapp3.1\CreateValidationAttributes.genruntimeconfig.cache

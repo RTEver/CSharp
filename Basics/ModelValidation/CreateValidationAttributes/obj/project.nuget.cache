@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ZiPIpX+JKnVnDpkIpKqRHj+WHXRxauY3i6OLQ54z7hZDn06tqXwRsd73lWFEqCTvj1M2w/yd96Fn2Tt5ve6IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\ModelValidation\\CreateValidationAttributes\\CreateValidationAttributes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phoenix\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

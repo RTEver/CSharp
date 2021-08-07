@@ -1,0 +1,15 @@
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\bin\Debug\netcoreapp3.1\Work_with_IValidatableObject.exe
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\bin\Debug\netcoreapp3.1\Work_with_IValidatableObject.deps.json
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\bin\Debug\netcoreapp3.1\Work_with_IValidatableObject.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\bin\Debug\netcoreapp3.1\Work_with_IValidatableObject.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\bin\Debug\netcoreapp3.1\Work_with_IValidatableObject.dll
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\bin\Debug\netcoreapp3.1\Work_with_IValidatableObject.pdb
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\obj\Debug\netcoreapp3.1\Work_with_IValidatableObject.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\obj\Debug\netcoreapp3.1\Work_with_IValidatableObject.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\obj\Debug\netcoreapp3.1\Work_with_IValidatableObject.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\obj\Debug\netcoreapp3.1\Work_with_IValidatableObject.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\obj\Debug\netcoreapp3.1\Work_with_IValidatableObject.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\obj\Debug\netcoreapp3.1\Work_with_IValidatableObject.dll
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\obj\Debug\netcoreapp3.1\Work_with_IValidatableObject.pdb
+C:\Users\Phoenix\Desktop\CSharp\ModelValidation\Work_with_IValidatableObject\obj\Debug\netcoreapp3.1\Work_with_IValidatableObject.genruntimeconfig.cache
