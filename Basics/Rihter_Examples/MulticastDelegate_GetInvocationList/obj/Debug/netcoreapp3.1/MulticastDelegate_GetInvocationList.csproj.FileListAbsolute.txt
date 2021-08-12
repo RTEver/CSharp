@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\bin\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.exe
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\bin\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\bin\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\bin\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\bin\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.dll
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\bin\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.pdb
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\obj\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\obj\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\obj\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\obj\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\obj\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.dll
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\obj\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.pdb
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\MulticastDelegate_GetInvocationList\obj\Debug\netcoreapp3.1\MulticastDelegate_GetInvocationList.genruntimeconfig.cache

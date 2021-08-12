@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Rihter_Examples\\Encoding_Examples\\Encoding_Examples.csproj",
+      "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Basics\\Rihter_Examples\\Encoding_Examples\\Encoding_Examples.csproj",
       "projectName": "Encoding_Examples",
-      "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Rihter_Examples\\Encoding_Examples\\Encoding_Examples.csproj",
+      "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Basics\\Rihter_Examples\\Encoding_Examples\\Encoding_Examples.csproj",
       "packagesPath": "C:\\Users\\Phoenix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Rihter_Examples\\Encoding_Examples\\obj\\",
+      "outputPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Basics\\Rihter_Examples\\Encoding_Examples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Phoenix\\AppData\\Roaming\\NuGet\\NuGet.Config",

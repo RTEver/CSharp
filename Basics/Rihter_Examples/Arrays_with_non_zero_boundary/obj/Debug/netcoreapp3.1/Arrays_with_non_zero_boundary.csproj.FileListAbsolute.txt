@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\bin\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.exe
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\bin\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\bin\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\bin\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\bin\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.dll
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\bin\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.pdb
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\obj\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\obj\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\obj\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\obj\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\obj\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.dll
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\obj\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.pdb
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Arrays_with_non_zero_boundary\obj\Debug\netcoreapp3.1\Arrays_with_non_zero_boundary.genruntimeconfig.cache

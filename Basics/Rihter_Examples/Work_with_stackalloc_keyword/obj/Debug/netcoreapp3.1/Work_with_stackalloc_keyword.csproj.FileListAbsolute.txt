@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\bin\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.exe
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\bin\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\bin\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\bin\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\bin\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.dll
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\bin\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.pdb
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\obj\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\obj\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\obj\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\obj\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\obj\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.dll
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\obj\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.pdb
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\Work_with_stackalloc_keyword\obj\Debug\netcoreapp3.1\Work_with_stackalloc_keyword.genruntimeconfig.cache

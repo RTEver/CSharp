@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Phoenix\\Desktop\\CSharp\\Rihter_Examples\\Secure_String\\Secure_String.csproj": {}
+    "C:\\Users\\Phoenix\\Desktop\\CSharp\\Basics\\Rihter_Examples\\Secure_String\\Secure_String.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Phoenix\\Desktop\\CSharp\\Rihter_Examples\\Secure_String\\Secure_String.csproj": {
+    "C:\\Users\\Phoenix\\Desktop\\CSharp\\Basics\\Rihter_Examples\\Secure_String\\Secure_String.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Rihter_Examples\\Secure_String\\Secure_String.csproj",
+        "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Basics\\Rihter_Examples\\Secure_String\\Secure_String.csproj",
         "projectName": "Secure_String",
-        "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Rihter_Examples\\Secure_String\\Secure_String.csproj",
+        "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Basics\\Rihter_Examples\\Secure_String\\Secure_String.csproj",
         "packagesPath": "C:\\Users\\Phoenix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Rihter_Examples\\Secure_String\\obj\\",
+        "outputPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Basics\\Rihter_Examples\\Secure_String\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Phoenix\\AppData\\Roaming\\NuGet\\NuGet.Config",
