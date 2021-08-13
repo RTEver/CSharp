@@ -1,0 +1,13 @@
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\bin\Debug\netcoreapp3.1\DelegateReflection.exe
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\bin\Debug\netcoreapp3.1\DelegateReflection.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\bin\Debug\netcoreapp3.1\DelegateReflection.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\bin\Debug\netcoreapp3.1\DelegateReflection.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\bin\Debug\netcoreapp3.1\DelegateReflection.dll
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\bin\Debug\netcoreapp3.1\DelegateReflection.pdb
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\obj\Debug\netcoreapp3.1\DelegateReflection.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\obj\Debug\netcoreapp3.1\DelegateReflection.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\obj\Debug\netcoreapp3.1\DelegateReflection.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\obj\Debug\netcoreapp3.1\DelegateReflection.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\obj\Debug\netcoreapp3.1\DelegateReflection.dll
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\obj\Debug\netcoreapp3.1\DelegateReflection.pdb
+C:\Users\Phoenix\Desktop\CSharp\Basics\Rihter_Examples\DelegateReflection\obj\Debug\netcoreapp3.1\DelegateReflection.genruntimeconfig.cache
