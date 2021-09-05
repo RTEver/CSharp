@@ -2,6 +2,7 @@
 using System.Net;
 using System.Text;
 using System.Net.Sockets;
+using System.Threading.Tasks;
 
 namespace Client_application
 {
@@ -22,42 +23,50 @@ namespace Client_application
 
         internal void Connect(IPEndPoint remoteEP)
         {
-            //if (remoteEP == null)
-            //{
-            //    throw new ArgumentNullException("remoteEP");
-            //}
+            if (remoteEP == null)
+            {
+                throw new ArgumentNullException("remoteEP");
+            }
 
-            //tcpClient.Connect(remoteEP);
+            tcpClient.Connect(remoteEP);
+
+            Task.Run(ListeningIncomingMessages);
 
             using (var networkStream = tcpClient.GetStream())
             {
-                var userName = tcpClient.Client.LocalEndPoint.ToString();
-
                 while (true)
                 {
-                    
+                    var message = Console.ReadLine();
 
-                    Console.Write(userName + ": ");
-
-                    var messageTo = userName + ": " + Console.ReadLine();
-
-                    var bufferTo = Encoding.Unicode.GetBytes(messageTo);
+                    var bufferTo = Encoding.Unicode.GetBytes(message);
 
                     networkStream.Write(bufferTo, 0, bufferTo.Length);
+                }
+            }
+        }
 
-                    var messageFrom = new StringBuilder("Server: ");
+        private void ListeningIncomingMessages()
+        {
+            using (var networkStream = tcpClient.GetStream())
+            {
+                while (true)
+                {
+                    var message = new StringBuilder();
 
                     do
                     {
-                        var bufferFrom = new Byte[256];
+                        var buffer = new Byte[256];
 
-                        var readedBytes = networkStream.Read(bufferFrom, 0, bufferFrom.Length);
+                        var readedBytes = networkStream.Read(buffer, 0, buffer.Length);
 
-                        messageFrom.Append(Encoding.Unicode.GetString(bufferFrom, 0, readedBytes));
+                        message.Append(Encoding.Unicode.GetString(buffer, 0, readedBytes));
                     }
                     while (networkStream.DataAvailable);
 
-                    Console.WriteLine(messageFrom.ToString());
+                    if (!String.IsNullOrEmpty(message.ToString()))
+                    {
+                        Console.WriteLine(message.ToString());
+                    }
                 }
             }
         }

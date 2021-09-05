@@ -10,7 +10,7 @@ namespace Client_application
         {
             var remoteEP = new IPEndPoint(IPAddress.Loopback, 8888);
 
-            var tcpClient = new TcpClient("127.0.0.1", 8888);
+            var tcpClient = new TcpClient();
 
             var client = new Client(tcpClient);
 

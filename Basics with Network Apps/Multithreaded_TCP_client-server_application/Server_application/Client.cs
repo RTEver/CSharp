@@ -1,6 +1,6 @@
 ﻿using System;
-using System.Net.Sockets;
 using System.Text;
+using System.Net.Sockets;
 
 namespace Server_application
 {
@@ -19,31 +19,17 @@ namespace Server_application
             this.tcpClient = tcpClient;
         }
 
-        internal void Process()
+        internal void SendMessage(Client client, String message)
         {
-            using (var networkStream = tcpClient.GetStream())
-            {
-                while (true)
-                {
-                    var messageFrom = new StringBuilder();
+            var networkStream = tcpClient.GetStream();
 
-                    do
-                    {
-                        var bufferFrom = new Byte[256];
+            var username = client.tcpClient.Client.RemoteEndPoint.ToString();
 
-                        var readedBytes = networkStream.Read(bufferFrom, 0, bufferFrom.Length);
+            var m =  username + ": " + message;
 
-                        messageFrom.Append(Encoding.Unicode.GetString(bufferFrom, 0, readedBytes));
-                    }
-                    while (networkStream.DataAvailable);
+            var buffer = Encoding.Unicode.GetBytes(m);
 
-                    var messageTo = $"Your message is delivered. ({messageFrom.ToString()})";
-
-                    var bufferTo = Encoding.Unicode.GetBytes(messageTo);
-
-                    networkStream.Write(bufferTo, 0, bufferTo.Length);
-                }
-            }
+            networkStream.Write(buffer);
         }
     }
 }
