@@ -1,0 +1,65 @@
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\5 Logging operations.exe
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\5 Logging operations.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\5 Logging operations.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\5 Logging operations.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\5 Logging operations.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\ref\5 Logging operations.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\5 Logging operations.pdb
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\obj\Debug\net5.0\5 Logging operations.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\obj\Debug\net5.0\5 Logging operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\obj\Debug\net5.0\5 Logging operations.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\obj\Debug\net5.0\5 Logging operations.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\obj\Debug\net5.0\5 Logging operations.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\obj\Debug\net5.0\5 Logging operations.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\obj\Debug\net5.0\5 Logging operations.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\obj\Debug\net5.0\ref\5 Logging operations.dll
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\obj\Debug\net5.0\5 Logging operations.pdb
+C:\Users\Phoenix\Desktop\CSharp\Entity Framework Core\Introduction\5 Logging operations\obj\Debug\net5.0\5 Logging operations.genruntimeconfig.cache

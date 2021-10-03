@@ -1,0 +1,2 @@
+﻿some name = Stas
+some age = 20

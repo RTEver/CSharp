@@ -1,0 +1,130 @@
+'ApplicationContext' generated a temporary value for the property 'Id.User'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.Context 'ApplicationContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.'ApplicationContext' generated a temporary value for the property 'Id.User'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.Context 'ApplicationContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.SaveChanges starting for 'ApplicationContext'.DetectChanges starting for 'ApplicationContext'.DetectChanges completed for 'ApplicationContext'.Opening connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.Opened connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.Beginning transaction with isolation level 'Unspecified'.Began transaction with isolation level 'ReadCommitted'.Executing update commands individually as the number of batchable commands (2) is smaller than the minimum batch size (4).Creating DbCommand for 'ExecuteReader'.Created DbCommand for 'ExecuteReader' (0ms).Executing DbCommand [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Age], [Name])
+VALUES (@p0, @p1);
+SELECT [Id]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();Executed DbCommand (45ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Age], [Name])
+VALUES (@p0, @p1);
+SELECT [Id]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();The foreign key property 'User.Id' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.A data reader was disposed.Creating DbCommand for 'ExecuteReader'.Created DbCommand for 'ExecuteReader' (1ms).Executing DbCommand [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Age], [Name])
+VALUES (@p0, @p1);
+SELECT [Id]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Age], [Name])
+VALUES (@p0, @p1);
+SELECT [Id]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();The foreign key property 'User.Id' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.A data reader was disposed.Committing transaction.Committed transaction.Closing connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.Closed connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.Disposing transaction.An entity of type 'User' tracked by 'ApplicationContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.An entity of type 'User' tracked by 'ApplicationContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.SaveChanges completed for 'ApplicationContext' with 2 entities written to the database.Compiling query expression: 
+'DbSet<User>()
+    .OrderBy(user => user.Name)
+    .First()'Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<User>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.SelectExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: User.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: User.Age (int) Required, 1], [Property: User.Name (string), 2], }
+        SELECT TOP(1) u.Id, u.Age, u.Name
+        FROM Users AS u
+        ORDER BY u.Name ASC), 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, User>, 
+    _6_Logging_providers.ApplicationContext, 
+    False, 
+    False
+)
+    .Single()'Creating DbCommand for 'ExecuteReader'.Created DbCommand for 'ExecuteReader' (2ms).Opening connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.Opened connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Age], [u].[Name]
+FROM [Users] AS [u]
+ORDER BY [u].[Name]Executed DbCommand (13ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Age], [u].[Name]
+FROM [Users] AS [u]
+ORDER BY [u].[Name]A data reader was disposed.Closing connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.Closed connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.An entity of type 'User' tracked by 'ApplicationContext' changed state from 'Unchanged' to 'Deleted'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.SaveChanges starting for 'ApplicationContext'.DetectChanges starting for 'ApplicationContext'.DetectChanges completed for 'ApplicationContext'.Opening connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.Opened connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.Beginning transaction with isolation level 'Unspecified'.Began transaction with isolation level 'ReadCommitted'.Creating DbCommand for 'ExecuteReader'.Created DbCommand for 'ExecuteReader' (1ms).Executing DbCommand [Parameters=[@p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Users]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT;Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Users]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT;A data reader was disposed.Committing transaction.Committed transaction.Closing connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.Closed connection to database 'helloappdb' on server '(localdb)\mssqllocaldb'.Disposing transaction.An entity of type 'User' tracked by 'ApplicationContext' changed state from 'Deleted' to 'Detached'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.SaveChanges completed for 'ApplicationContext' with 1 entities written to the database.'ApplicationContext' disposed.Entity Framework Core 5.0.10 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: NoneExecuted DbCommand (24ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1Executed DbCommand (6ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [helloappdb] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+END;Executed DbCommand (32ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+DROP DATABASE [helloappdb];Executed DbCommand (270ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [helloappdb];Executed DbCommand (85ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [helloappdb] SET READ_COMMITTED_SNAPSHOT ON;
+END;Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1Executed DbCommand (9ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Users] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NULL,
+    [Age] int NOT NULL,
+    CONSTRAINT [PK_Users] PRIMARY KEY ([Id])
+);Executed DbCommand (33ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Age], [Name])
+VALUES (@p0, @p1);
+SELECT [Id]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Age], [Name])
+VALUES (@p0, @p1);
+SELECT [Id]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Age], [u].[Name]
+FROM [Users] AS [u]
+ORDER BY [u].[Name]Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Users]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT;Entity Framework Core 5.0.10 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: NoneExecuted DbCommand (23ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [helloappdb] SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+END;Executed DbCommand (33ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+DROP DATABASE [helloappdb];Executed DbCommand (328ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [helloappdb];Executed DbCommand (77ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [helloappdb] SET READ_COMMITTED_SNAPSHOT ON;
+END;Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1Executed DbCommand (7ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Users] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NULL,
+    [Age] int NOT NULL,
+    CONSTRAINT [PK_Users] PRIMARY KEY ([Id])
+);Executed DbCommand (31ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Age], [Name])
+VALUES (@p0, @p1);
+SELECT [Id]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Age], [Name])
+VALUES (@p0, @p1);
+SELECT [Id]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Age], [u].[Name]
+FROM [Users] AS [u]
+ORDER BY [u].[Name]Executed DbCommand (2ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+DELETE FROM [Users]
+WHERE [Id] = @p0;
+SELECT @@ROWCOUNT;

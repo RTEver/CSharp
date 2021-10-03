@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\CSharp\\ASP.NET\\Configuration\\Configuration\\Configuration.csproj",
+      "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\CSharp\\ASP.NET Core\\Configuration\\Configuration\\Configuration.csproj",
       "projectName": "Configuration",
-      "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\ASP.NET\\Configuration\\Configuration\\Configuration.csproj",
+      "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\ASP.NET Core\\Configuration\\Configuration\\Configuration.csproj",
       "packagesPath": "C:\\Users\\Phoenix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\ASP.NET\\Configuration\\Configuration\\obj\\",
+      "outputPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\ASP.NET Core\\Configuration\\Configuration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Phoenix\\AppData\\Roaming\\NuGet\\NuGet.Config",

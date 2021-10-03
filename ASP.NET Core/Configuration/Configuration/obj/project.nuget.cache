@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+GanBC5ux+kMIq7hEIbJLmM17WaYgIo6g2tSRTGrYiW2E9PIYnp6XV5mvlhfhTkbQhrNpBOpH19tng1LFbp4ug==",
+  "dgSpecHash": "BYXgjtDdWwJN/h79EBb8jRpKubYDe5zNF7F1XYfiBlGHunZoq7gCNCPuj+YtzG/L76O3oyerWU++eiRwNmtG7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\ASP.NET\\Configuration\\Configuration\\Configuration.csproj",
+  "projectFilePath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\ASP.NET Core\\Configuration\\Configuration\\Configuration.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
