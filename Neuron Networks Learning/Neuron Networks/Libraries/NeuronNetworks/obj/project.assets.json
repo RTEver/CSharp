@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj",
+      "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj",
       "projectName": "NeuronNetworks",
-      "projectPath": "C:\\Users\\Phoenix\\Desktop\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj",
+      "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj",
       "packagesPath": "C:\\Users\\Phoenix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Phoenix\\Desktop\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\obj\\",
+      "outputPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Phoenix\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

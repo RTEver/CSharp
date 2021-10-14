@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "URUfTUePk2oVWMPfZJoTjprwE+raJevGa3czHgdIUm5u8vcbR0PisDMe4wGuSoymwrmicOFdX5MmWcA5TcxFTQ==",
+  "dgSpecHash": "GRQ3mZ6uQe7aNWlHzpMmAxR04YwF8GR2a4lVTTVChGj5kcJ/WIQHWCtHNo87oKPyj0uXvekwXUHi777KjcMHNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phoenix\\Desktop\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj",
+  "projectFilePath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

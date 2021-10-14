@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XBi1rEsr7G9BWioobMCV4f8PJDZNbQUrnR+0r3LqTsIH1FrPe44ntVvycg92BjQCQEQ+TVQf1+go9jnNlIuFnA==",
+  "dgSpecHash": "a2hfKEjXRvmkDUVDjlsqg3oyDp13E4419rPkkfFdLGU+Wj/QHotVsYQAF1hZI0Sp1/SjDnMyYbUhAwdGiv2VPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phoenix\\Desktop\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj",
+  "projectFilePath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

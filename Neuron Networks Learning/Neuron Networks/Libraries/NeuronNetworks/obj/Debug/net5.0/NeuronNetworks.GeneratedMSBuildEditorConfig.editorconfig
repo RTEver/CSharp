@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = NeuronNetworks
-build_property.ProjectDir = C:\Users\Phoenix\Desktop\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\
+build_property.ProjectDir = C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\
