@@ -20,3 +20,4 @@ C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks 
 C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ref\ImageGenerator.dll
 C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.pdb
 C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.genruntimeconfig.cache
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\Images\Test.bmp
