@@ -13,9 +13,11 @@ namespace NeuronNetworks.Networks
 {
     public sealed class RumelhartPerseptron : NeuronNetwork
     {
+        private Single[][][] deltaWeigths;
+
         public Single Rate { get; set; }
 
-        public Single Impult { get; set; }
+        public Single Impuls { get; set; }
 
         public Single Epochs { get; set; }
 
@@ -23,7 +25,29 @@ namespace NeuronNetworks.Networks
 
         public RumelhartPerseptron(RumelhartPerseptronTopology topology)
             : base(topology)
-        { }
+        {
+            var layers = new List<ILayer>();
+
+            layers.AddRange(LayersA);
+
+            layers.Add(LayerR);
+
+            deltaWeigths = new Single[layers.Count][][];
+
+            for (var layerIndex = 0; layerIndex < layers.Count; ++layerIndex)
+            {
+                var neurons = layers[layerIndex].Neurons;
+
+                deltaWeigths[layerIndex] = new Single[neurons.Length][];
+
+                for (var neuronIndex = 0; neuronIndex < neurons.Length; ++neuronIndex)
+                {
+                    var synapses = neurons[neuronIndex].InputSynapses;
+
+                    deltaWeigths[layerIndex][neuronIndex] = new Single[synapses.Length];
+                }
+            }
+        }
 
         public override Single[] Compute(Single[] inputVector)
         {
@@ -38,55 +62,134 @@ namespace NeuronNetworks.Networks
         {
             for (var epoch = 0; epoch < Epochs; ++epoch)
             {
-                var epselons = new Single[LayerR.Neurons.Length];
+                var epochError = default(Single);
 
                 for (var input = 0; input < TrainSet.InputVectors.Length; ++input)
                 {
                     var actualOutput = Compute(TrainSet.InputVectors[input]);
 
-                    epselons = GetEpselons(TrainSet.OutputVectors[input], actualOutput);
+                    var epselons = GetEpselons(TrainSet.OutputVectors[input], actualOutput);
 
                     var deltas = GetDeltas(epselons);
 
                     var gradients = GetGradients(deltas);
+
+                    ChangeWeigths(gradients);
+
+                    var epselonsSumma = default(Single);
+
+                    foreach (Single epselon in epselons)
+                    {
+                        epselonsSumma += MathF.Abs(epselon);
+                    }
+
+                    epochError += epselonsSumma / epselons.Length;
                 }
 
-                if (epselons.Max() <= PrematureExitError)
+                epochError /= TrainSet.OutputVectors.Length;
+
+                Console.WriteLine("Error, %: {0}", epochError);
+
+                if (epochError <= PrematureExitError)
                 {
                     break;
                 }
             }
         }
 
-        private Single[][][] GetDeltaWeigths(Single[][] gradients)
+        private void ChangeWeigths(Single[][][] gradients)
         {
+            var layers = new List<ILayer>();
 
+            layers.AddRange(LayersA);
+
+            layers.Add(LayerR);
+
+            for (var layerIndex = 0; layerIndex < layers.Count; ++layerIndex)
+            {
+                var currentLayer = layers[layerIndex];
+
+                var neurons = currentLayer.Neurons;
+
+                for (var neuronIndex = 0; neuronIndex < neurons.Length; ++neuronIndex)
+                {
+                    var currentNeuron = neurons[neuronIndex];
+
+                    var synapses = currentNeuron.InputSynapses;
+
+                    for (var synapseIndex = 0; synapseIndex < synapses.Length; ++synapseIndex)
+                    {
+                        var deltaWeight = Rate * gradients[layerIndex][neuronIndex][synapseIndex]
+                            + Impuls * deltaWeigths[layerIndex][neuronIndex][synapseIndex];
+
+                        deltaWeigths[layerIndex][neuronIndex][synapseIndex] = deltaWeight;
+                    }
+                }
+            }
+
+            for (var layerIndex = 0; layerIndex < layers.Count - 1; ++layerIndex)
+            {
+                LayersA[layerIndex].ChangeWeights(deltaWeigths[layerIndex]);
+            }
+
+            LayerR.ChangeWeights(deltaWeigths[layers.Count - 1]);
         }
 
-        private Single[][] GetGradients(Single[][] deltas)
+        private Single[][][] GetGradients(Single[][] deltas)
         {
-            var gradients = new Single[deltas.Length][];
+            var gradients = new Single[deltas.Length][][];
+
+            var leftToRightDeltas = new Single[deltas.Length][];
+
+            for (var i = 0; i < deltas.Length; ++i)
+            {
+                leftToRightDeltas[i] = deltas[i];
+            }
 
             var layers = new List<ILayer>();
 
-            layers.Add(LayerS);
-
             layers.AddRange(LayersA);
+
+            layers.Add(LayerR);
 
             for (var layerIndex = 0; layerIndex < layers.Count; ++layerIndex)
             {
                 var neurons = layers[layerIndex].Neurons;
 
-                var layerGradients = new Single[neurons.Length];
+                gradients[layerIndex] = new Single[neurons.Length][];
 
                 for (var neuronIndex = 0; neuronIndex < neurons.Length; ++neuronIndex)
                 {
-                    var gradient = neurons[neuronIndex].OutputValue * deltas[layerIndex][neuronIndex];
+                    var synapses = neurons[neuronIndex].InputSynapses;
 
-                    layerGradients[neuronIndex] = gradient;
+                    gradients[layerIndex][neuronIndex] = new Single[synapses.Length];
                 }
+            }
 
-                gradients[layerIndex] = layerGradients;
+            for (var layerIndex = 0; layerIndex < gradients.Length; ++layerIndex)
+            {
+                var currentLayer = layers[layerIndex];
+
+                var neurons = currentLayer.Neurons;
+
+                for (var neuronIndex = 0; neuronIndex < neurons.Length; ++neuronIndex)
+                {
+                    var currentNeuron = neurons[neuronIndex];
+
+                    var synapses = currentNeuron.InputSynapses;
+
+                    for (var synapseIndex = 0; synapseIndex < synapses.Length; ++synapseIndex)
+                    {
+                        var gradient = deltas[layerIndex][neuronIndex];
+
+                        if (!(synapses[synapseIndex] is BiasSynapse))
+                        {
+                            gradient *= synapses[synapseIndex].InputNeuron.OutputValue;
+                        }
+                        
+                        gradients[layerIndex][neuronIndex][synapseIndex] = gradient;
+                    }
+                }
             }
 
             return gradients;
@@ -98,53 +201,91 @@ namespace NeuronNetworks.Networks
 
             layers.Add(LayerR);
             
-            for (var index = this.LayersA.Length - 1; index >= 0; --index)
+            for (var index = LayersA.Length - 1; index >= 0; --index)
             {
-                layers.Add(this.LayersA[index]);
+                layers.Add(LayersA[index]);
             }
 
-            var deltas = new List<Single[]>();
+            var deltas = new Single[layers.Count][];
 
-            var outputDelta = new Single[layers[0].Neurons.Length];
+            var outputDelta = new Single[LayerR.Neurons.Length];
 
-            for (var i = 0; i < layers[0].Neurons.Length; ++i)
+            for (var i = 0; i < LayerR.Neurons.Length; ++i)
             {
-                var output = layers[0].Neurons[i].OutputValue;
+                var output = LayerR.Neurons[i].OutputValue;
 
                 outputDelta[i] = epselons[i] * ((1 - output) * output);
             }
 
-            deltas.Add(outputDelta);
+            deltas[0] = outputDelta;
 
-            for (var layer = 1; layer < layers.Count; ++layer)
+            for (var layerIndex = 1; layerIndex < layers.Count; ++layerIndex)
             {
-                var hiddenLayerDeltas = new Single[layers[layer].Neurons.Length];
+                var previousLayer = layers[layerIndex - 1];
 
-                for (var neuron = 0; neuron < layers[layer].Neurons.Length; ++neuron)
+                var previousNeurons = previousLayer.Neurons;
+
+                var currentLayer = layers[layerIndex];
+
+                var neurons = currentLayer.Neurons;
+
+                var currentLayerDeltas = new Single[neurons.Length];
+
+                for (var neuronIndex = 0; neuronIndex < neurons.Length; ++neuronIndex)
                 {
-                    var summaDeltasAndWeights = default(Single);
+                    var summa = default(Single);
 
-                    for (var i = 0; i < deltas[layer - 1].Length; ++i)
+                    for (var previousNeuronIndex = 0; previousNeuronIndex < previousNeurons.Length; ++previousNeuronIndex)
                     {
-                        summaDeltasAndWeights += deltas[0][i] * layers[0].Neurons[i].InputSynapses[neuron + 1].Weight;
+                        var previousNeuron = previousNeurons[previousNeuronIndex];
+
+                        var previousSynapses = previousNeuron.InputSynapses;
+
+                        summa += deltas[layerIndex - 1][previousNeuronIndex] * previousSynapses[neuronIndex + 1].Weight;
                     }
 
-                    var output = layers[layer].Neurons[neuron].OutputValue;
+                    var neuron = neurons[neuronIndex];
 
-                    hiddenLayerDeltas[neuron] = (1 - output) * output * summaDeltasAndWeights;
+                    var output = neuron.OutputValue;
+
+                    var delta = (1 - output) * output * summa;
+
+                    currentLayerDeltas[neuronIndex] = delta;
                 }
 
-                deltas.Add(hiddenLayerDeltas);
+                deltas[layerIndex] = currentLayerDeltas;
             }
+
+            for (var i = 0; i < deltas.Length; ++i)
+            {
+                for (var j = 0; j < deltas[i].Length; ++j)
+                {
+                    Console.Write(deltas[i][j] + " ");
+                }
+
+                Console.WriteLine();
+            }
+
+            Console.WriteLine();
 
             return deltas.ToArray();
         }
 
         private Single[] GetEpselons(Single[] ideal, Single[] actual)
         {
+            if (ideal == null)
+            {
+                throw new ArgumentNullException("ideal");
+            }
+
+            if (actual == null)
+            {
+                throw new ArgumentNullException("actual");
+            }
+
             var epselons = new Single[ideal.Length];
 
-            for (var index = 0; index < ideal.Length; ++index)
+            for (var index = 0; index < epselons.Length; ++index)
             {
                 epselons[index] = ideal[index] - actual[index];
             }

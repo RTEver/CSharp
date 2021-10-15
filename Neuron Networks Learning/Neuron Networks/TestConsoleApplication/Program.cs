@@ -6,6 +6,7 @@ using NeuronNetworks.Synapses;
 using NeuronNetworks.Layers;
 using NeuronNetworks.Topologies;
 using NeuronNetworks.Networks;
+using NeuronNetworks.DataSet;
 
 namespace TestConsoleApplication
 {
@@ -13,7 +14,7 @@ namespace TestConsoleApplication
     {
         private static void Main(String[] args)
         {
-            //Test_2();
+            Test_4_TestRumelhartPerseptronComplete();
         }
 
         private static void Test_1()
@@ -160,6 +161,40 @@ namespace TestConsoleApplication
 
                 Console.WriteLine("Hidden layer: {0} -> Neurons: {1}", hiddenLayer++, count);
             }
+        }
+
+        private static void Test_4_TestRumelhartPerseptronComplete()
+        {
+            var trainSet = new DataSet()
+            {
+                InputVectors = new Single[][]
+                {
+                    new Single[] { 0, 0 },
+                    new Single[] { 1, 0 },
+                    new Single[] { 0, 1 },
+                    new Single[] { 1, 1 },
+                },
+                OutputVectors = new Single[][]
+                {
+                    new Single[] { 0 },
+                    new Single[] { 0 },
+                    new Single[] { 1 },
+                    new Single[] { 1 },
+                },
+            };
+
+            var topology = new RumelhartPerseptronTopology(ActivationFunction, 2, 1, new Int32[] { 2, 2 });
+
+            var perseptron = new RumelhartPerseptron(topology)
+            {
+                TrainSet = trainSet,
+                Rate = 1,
+                Impuls = 0.4f,
+                Epochs = 10,
+                PrematureExitError = 0,
+            };
+
+            perseptron.Train();
         }
 
         private static Single ActivationFunction(Single input) => 1.0f / (1 + MathF.Exp(-input));
