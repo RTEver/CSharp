@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "a2hfKEjXRvmkDUVDjlsqg3oyDp13E4419rPkkfFdLGU+Wj/QHotVsYQAF1hZI0Sp1/SjDnMyYbUhAwdGiv2VPQ==",
+  "dgSpecHash": "2QFb8cMqx4TGAjvSCl5WOm6gGW5wWGTi9s+OY0HIMoJeW1OyQOnMezu2/705G8kvkEtGlXmWE+n9tPwirCDyzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rimuru Tempest\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rimuru Tempest\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rimuru Tempest\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

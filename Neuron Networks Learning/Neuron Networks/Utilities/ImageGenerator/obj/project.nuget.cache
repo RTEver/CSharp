@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bch1rLjD/H23k14nWlhX00NgtdIrC+V6YtkPN5t2Yt+g3C8FoiGC3m/YluDJ590YJdcyax9MVmz/TDbimXbDjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\ImageGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rimuru Tempest\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rimuru Tempest\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rimuru Tempest\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

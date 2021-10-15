@@ -22,3 +22,15 @@ C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Librari
 C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\obj\Debug\net5.0\NeuronNetworks.dll
 C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\obj\Debug\net5.0\ref\NeuronNetworks.dll
 C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\obj\Debug\net5.0\NeuronNetworks.pdb
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\bin\Debug\net5.0\NeuronNetworks.deps.json
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\bin\Debug\net5.0\NeuronNetworks.dll
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\bin\Debug\net5.0\ref\NeuronNetworks.dll
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\bin\Debug\net5.0\NeuronNetworks.pdb
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\obj\Debug\net5.0\NeuronNetworks.csproj.AssemblyReference.cache
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\obj\Debug\net5.0\NeuronNetworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\obj\Debug\net5.0\NeuronNetworks.AssemblyInfoInputs.cache
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\obj\Debug\net5.0\NeuronNetworks.AssemblyInfo.cs
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\obj\Debug\net5.0\NeuronNetworks.csproj.CoreCompileInputs.cache
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\obj\Debug\net5.0\NeuronNetworks.dll
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\obj\Debug\net5.0\ref\NeuronNetworks.dll
+C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Libraries\NeuronNetworks\obj\Debug\net5.0\NeuronNetworks.pdb

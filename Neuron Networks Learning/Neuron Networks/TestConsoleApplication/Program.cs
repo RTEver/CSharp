@@ -183,14 +183,14 @@ namespace TestConsoleApplication
                 },
             };
 
-            var topology = new RumelhartPerseptronTopology(ActivationFunction, 2, 1, new Int32[] { 2, 2 });
+            var topology = new RumelhartPerseptronTopology(ActivationFunction, 2, 1, new Int32[] { 2 });
 
             var perseptron = new RumelhartPerseptron(topology)
             {
                 TrainSet = trainSet,
-                Rate = 1,
-                Impuls = 0.4f,
-                Epochs = 10,
+                Rate = 0.9f,
+                Impuls = 1.0f,
+                Epochs = 1000,
                 PrematureExitError = 0,
             };
 

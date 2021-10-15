@@ -70,9 +70,24 @@ namespace NeuronNetworks.Networks
 
                     var epselons = GetEpselons(TrainSet.OutputVectors[input], actualOutput);
 
+                    Console.WriteLine("Epoch: {0}; Rule: {1}; Eps: {2};", epoch, input, epselons[0]);
+
                     var deltas = GetDeltas(epselons);
 
                     var gradients = GetGradients(deltas);
+
+                    for (var i = 0; i < gradients.Length; ++i)
+                    {
+                        for (var j = 0; j < gradients[i].Length; ++j)
+                        {
+                            for (var k = 0; k < gradients[i][j].Length; ++k)
+                            {
+                                Console.WriteLine("Layer: {0}; Neuron: {1}; Synapse: {2}; Gradient: {3}", i, j, k, gradients[i][j][k]);
+                            }
+                        }
+                    }
+
+                    Console.WriteLine();
 
                     ChangeWeigths(gradients);
 
@@ -88,7 +103,7 @@ namespace NeuronNetworks.Networks
 
                 epochError /= TrainSet.OutputVectors.Length;
 
-                Console.WriteLine("Error, %: {0}", epochError);
+                Console.WriteLine("Epoch: {1}; Error, %: {0}", epochError, epoch);
 
                 if (epochError <= PrematureExitError)
                 {
@@ -141,10 +156,22 @@ namespace NeuronNetworks.Networks
 
             var leftToRightDeltas = new Single[deltas.Length][];
 
-            for (var i = 0; i < deltas.Length; ++i)
+            for (var i = deltas.Length - 1; i >= 0; --i)
             {
-                leftToRightDeltas[i] = deltas[i];
+                leftToRightDeltas[deltas.Length - i - 1] = deltas[i];
             }
+
+            //for (var i = 0; i < leftToRightDeltas.Length; ++i)
+            //{
+            //    for (var j = 0; j < leftToRightDeltas[i].Length; ++j)
+            //    {
+            //        Console.Write(leftToRightDeltas[i][j] + " ");
+            //    }
+
+            //    Console.WriteLine();
+            //}
+
+            //Console.WriteLine();
 
             var layers = new List<ILayer>();
 
@@ -180,7 +207,7 @@ namespace NeuronNetworks.Networks
 
                     for (var synapseIndex = 0; synapseIndex < synapses.Length; ++synapseIndex)
                     {
-                        var gradient = deltas[layerIndex][neuronIndex];
+                        var gradient = leftToRightDeltas[layerIndex][neuronIndex];
 
                         if (!(synapses[synapseIndex] is BiasSynapse))
                         {
@@ -256,17 +283,17 @@ namespace NeuronNetworks.Networks
                 deltas[layerIndex] = currentLayerDeltas;
             }
 
-            for (var i = 0; i < deltas.Length; ++i)
-            {
-                for (var j = 0; j < deltas[i].Length; ++j)
-                {
-                    Console.Write(deltas[i][j] + " ");
-                }
+            //for (var i = 0; i < deltas.Length; ++i)
+            //{
+            //    for (var j = 0; j < deltas[i].Length; ++j)
+            //    {
+            //        Console.Write(deltas[i][j] + " ");
+            //    }
 
-                Console.WriteLine();
-            }
+            //    Console.WriteLine();
+            //}
 
-            Console.WriteLine();
+            //Console.WriteLine();
 
             return deltas.ToArray();
         }
