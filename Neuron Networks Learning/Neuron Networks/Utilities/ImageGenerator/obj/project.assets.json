@@ -149,24 +149,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rimuru Tempest\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Phoenix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\ImageGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\ImageGenerator.csproj",
       "projectName": "ImageGenerator",
-      "projectPath": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\ImageGenerator.csproj",
-      "packagesPath": "C:\\Users\\Rimuru Tempest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\obj\\",
+      "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\ImageGenerator.csproj",
+      "packagesPath": "C:\\Users\\Phoenix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Rimuru Tempest\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Phoenix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -174,7 +169,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.emzi0767.com/api/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -212,7 +208,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

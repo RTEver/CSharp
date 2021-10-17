@@ -23,6 +23,10 @@ namespace NeuronNetworks.Networks
 
         public Single PrematureExitError { get; set; }
 
+        private Single error = 1.0f;
+
+        public override Single Error => error;
+
         public RumelhartPerseptron(RumelhartPerseptronTopology topology)
             : base(topology)
         {
@@ -67,27 +71,27 @@ namespace NeuronNetworks.Networks
                 for (var input = 0; input < TrainSet.InputVectors.Length; ++input)
                 {
                     var actualOutput = Compute(TrainSet.InputVectors[input]);
-
+                    
                     var epselons = GetEpselons(TrainSet.OutputVectors[input], actualOutput);
-
-                    Console.WriteLine("Epoch: {0}; Rule: {1}; Eps: {2};", epoch, input, epselons[0]);
-
+                    //Console.WriteLine("Epoch: {0}; Input: {1}; Eps: {2}", epoch, input, epselons[0]);
+                    //Console.WriteLine("Epoch: {0}; Rule: {1}; Eps: {2};", epoch, input, epselons[0]);
+                    
                     var deltas = GetDeltas(epselons);
-
+                    
                     var gradients = GetGradients(deltas);
-
+                    
                     for (var i = 0; i < gradients.Length; ++i)
                     {
                         for (var j = 0; j < gradients[i].Length; ++j)
                         {
                             for (var k = 0; k < gradients[i][j].Length; ++k)
                             {
-                                Console.WriteLine("Layer: {0}; Neuron: {1}; Synapse: {2}; Gradient: {3}", i, j, k, gradients[i][j][k]);
+                                //Console.WriteLine("Layer: {0}; Neuron: {1}; Synapse: {2}; Gradient: {3}", i, j, k, gradients[i][j][k]);
                             }
                         }
                     }
 
-                    Console.WriteLine();
+                    //Console.WriteLine();
 
                     ChangeWeigths(gradients);
 
@@ -97,13 +101,26 @@ namespace NeuronNetworks.Networks
                     {
                         epselonsSumma += MathF.Abs(epselon);
                     }
-
+                    
                     epochError += epselonsSumma / epselons.Length;
                 }
-
+                
                 epochError /= TrainSet.OutputVectors.Length;
 
+                //for (var i = 0; i < deltaWeigths.Length; ++i)
+                //{
+                //    for (var j = 0; j < deltaWeigths[i].Length; ++j)
+                //    {
+                //        for (var k = 0; k < deltaWeigths[i][j].Length; ++k)
+                //        {
+                //            Console.WriteLine("Layer: {0}; Neuron: {1}; Synapse: {2}; Weight: {3}", i, j, k, deltaWeigths[i][j][k]);
+                //        }
+                //    }
+                //}
+
                 Console.WriteLine("Epoch: {1}; Error, %: {0}", epochError, epoch);
+
+                error = epochError;
 
                 if (epochError <= PrematureExitError)
                 {
@@ -165,13 +182,13 @@ namespace NeuronNetworks.Networks
             //{
             //    for (var j = 0; j < leftToRightDeltas[i].Length; ++j)
             //    {
-            //        Console.Write(leftToRightDeltas[i][j] + " ");
+            //        //Console.Write(leftToRightDeltas[i][j] + " ");
             //    }
 
-            //    Console.WriteLine();
+            //    //Console.WriteLine();
             //}
 
-            //Console.WriteLine();
+            ////Console.WriteLine();
 
             var layers = new List<ILayer>();
 
@@ -274,7 +291,7 @@ namespace NeuronNetworks.Networks
                     var neuron = neurons[neuronIndex];
 
                     var output = neuron.OutputValue;
-
+                    
                     var delta = (1 - output) * output * summa;
 
                     currentLayerDeltas[neuronIndex] = delta;
@@ -287,18 +304,18 @@ namespace NeuronNetworks.Networks
             //{
             //    for (var j = 0; j < deltas[i].Length; ++j)
             //    {
-            //        Console.Write(deltas[i][j] + " ");
+            //        //Console.Write(deltas[i][j] + " ");
             //    }
 
-            //    Console.WriteLine();
+            //    //Console.WriteLine();
             //}
 
-            //Console.WriteLine();
+            ////Console.WriteLine();
 
             return deltas.ToArray();
         }
 
-        private Single[] GetEpselons(Single[] ideal, Single[] actual)
+        public Single[] GetEpselons(Single[] ideal, Single[] actual)
         {
             if (ideal == null)
             {

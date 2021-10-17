@@ -23,5 +23,7 @@ namespace NeuronNetworks.Networks
         public void Train();
 
         public Single[] Compute(Single[] inputVector);
+
+        public Single Error { get; }
     }
 }

@@ -63,16 +63,44 @@ namespace NeuronNetworks.Topologies
 
             for (var index = 0; index < hiddenNeurons.Length; ++index)
             {
-                hiddenLayers[index] = new LayerA(hiddenNeurons[index].Cast<NeuronA>().ToArray());
+                var layer = new LayerA(hiddenNeurons[index].Cast<NeuronA>().ToArray());
+
+                //layer.ChangeWeights(GetRandomWeights(layer.Neurons.Length, layer.Neurons[0].InputSynapses.Length));
+
+                hiddenLayers[index] = layer;
             }
 
             var outputLayer = new LayerR(outputNeurons.Cast<NeuronR>().ToArray());
+
+            //outputLayer.ChangeWeights(GetRandomWeights(outputLayer.Neurons.Length, outputLayer.Neurons[0].InputSynapses.Length));
 
             layers.Add(inputLayer);
             layers.AddRange(hiddenLayers);
             layers.Add(outputLayer);
 
             return layers.ToArray();
+        }
+
+        private static Single[][] GetRandomWeights(Int32 neurons, Int32 synapses)
+        {
+            var weights = new Single[neurons][];
+
+            var random = new Random();
+
+            for (var i = 0; i < neurons; ++i)
+            {
+                for (var j = 0; j < synapses; ++j)
+                {
+                    weights[i] = new Single[synapses];
+
+                    for (var k = 0; k < synapses; ++k)
+                    {
+                        weights[i][k] = (Single)random.NextDouble() * 100 + 1;
+                    }
+                }
+            }
+
+            return weights;
         }
     }
 }

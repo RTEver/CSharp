@@ -21,3 +21,26 @@ C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks 
 C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.pdb
 C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.genruntimeconfig.cache
 C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\Images\Test.bmp
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\ImageGenerator.exe
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\Images\Test.bmp
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\ImageGenerator.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\ImageGenerator.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\ImageGenerator.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\ImageGenerator.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\ref\ImageGenerator.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\ImageGenerator.pdb
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.csproj.AssemblyReference.cache
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.AssemblyInfoInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.AssemblyInfo.cs
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.csproj.CopyComplete
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ref\ImageGenerator.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.pdb
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\Utilities\ImageGenerator\obj\Debug\net5.0\ImageGenerator.genruntimeconfig.cache

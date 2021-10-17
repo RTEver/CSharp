@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj": {}
+    "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj": {
+    "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj",
+        "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj",
         "projectName": "NeuronNetworks",
-        "projectPath": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj",
-        "packagesPath": "C:\\Users\\Rimuru Tempest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\obj\\",
+        "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj",
+        "packagesPath": "C:\\Users\\Phoenix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Rimuru Tempest\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Phoenix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/api/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -58,25 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj": {
+    "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj",
         "projectName": "TestConsoleApplication",
-        "projectPath": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj",
-        "packagesPath": "C:\\Users\\Rimuru Tempest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\obj\\",
+        "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\TestConsoleApplication.csproj",
+        "packagesPath": "C:\\Users\\Phoenix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\TestConsoleApplication\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Rimuru Tempest\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Phoenix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,14 +77,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/api/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj": {
-                "projectPath": "C:\\Users\\Rimuru Tempest\\OneDrive\\Рабочий стол\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj"
+              "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj": {
+                "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Libraries\\NeuronNetworks\\NeuronNetworks.csproj"
+              },
+              "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\ImageGenerator.csproj": {
+                "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\ImageGenerator.csproj"
               }
             }
           }
@@ -126,7 +123,68 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\ImageGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\ImageGenerator.csproj",
+        "projectName": "ImageGenerator",
+        "projectPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\ImageGenerator.csproj",
+        "packagesPath": "C:\\Users\\Phoenix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\Neuron Networks\\Utilities\\ImageGenerator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Phoenix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

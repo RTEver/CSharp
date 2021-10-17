@@ -46,6 +46,8 @@ namespace NeuronNetworks.Networks
 
         public abstract void Train();
 
+        public abstract Single Error { get; }
+
         private void TopologyBuilder()
         {
             var layers = topology.BuildTopology();

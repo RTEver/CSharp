@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Text;
 using System.Drawing;
 
 namespace ImageGenerator
@@ -8,200 +9,49 @@ namespace ImageGenerator
     {
         private static void Main(String[] args)
         {
-            var bitmaps = LoadImagesAsBitmapsFromDirectory("Images");
+            var alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-            CreateCopiesWithOffset(bitmaps[0]);
-        }
+            var generator = new Generator();
 
-        private static void CreateCopiesWithOffset(Bitmap bitmap)
-        {
-            var left = FindEdge(bitmap, Direction.Left);
-            var up = FindEdge(bitmap, Direction.Up);
+            var bitmaps = generator.GetBitmaps("Letters");
 
-            var newBitmap = SetOffset(bitmap, left, up);
-            
-            newBitmap.Save($"Images\\Bitmap_v0.bmp");
-
-            GenerateAllCases(newBitmap);
-        }
-
-        private static void GenerateAllCases(Bitmap bitmap)
-        {
-            var right = FindEdge(bitmap, Direction.Right);
-            var down = FindEdge(bitmap, Direction.Down);
-
-            var version = 1;
-
-            for (var x = 0; x < bitmap.Width - down; ++x)
+            for (var i = 0; i < bitmaps.Length; i += 2)
             {
-                for (var y = 0; y < bitmap.Height - right; ++y)
-                {
-                    var newBitmap = SetOffset(bitmap, -x, -y);
-
-                    newBitmap.Save($"Images\\Bitmap_v{version++}.bmp");
-                }
+                generator.GenerateCopies($"Copies\\{alphabet[i / 2]}", bitmaps[i], $"{alphabet[i / 2]}");
+                generator.GenerateCopies($"Copies\\{alphabet[i / 2]}_small", bitmaps[i + 1], $"{alphabet[i / 2]}_small");
             }
         }
 
-        private static Bitmap SetOffset(Bitmap bitmap, Int32 left, Int32 up)
-        {
-            var bitmapWithOffset = new Bitmap(6, 6);
+        //private static void Generate()
+        //{
+        //    var image = Image.FromFile($"{args[0]}.bmp");
 
-            for (var x = 0; x < bitmapWithOffset.Width; ++x)
-            {
-                for (var y = 0; y < bitmapWithOffset.Height; ++y)
-                {
-                    var color = Color.White;
+        //    var bitmap = new Bitmap(image);
 
-                    var offsetX = x + left;
-                    var offsetY = y + up;
+        //    var version = default(Int32);
 
-                    if (0 <= offsetX && offsetX < bitmap.Width && 0 <= offsetY && offsetY < bitmap.Height)
-                    {
-                        color = bitmap.GetPixel(offsetX, offsetY);
-                    }
+        //    var columnsLength = 6 - Int32.Parse(args[1]);
+        //    var rawsLength = 6 - Int32.Parse(args[2]);
 
-                    bitmapWithOffset.SetPixel(x, y, color);
-                }
-            }
+        //    for (var offsetColumn = 0; offsetColumn < Int32.Parse(args[1]) + 1; ++offsetColumn)
+        //    {
+        //        for (var offsetRaw = 0; offsetRaw < Int32.Parse(args[2]) + 1; ++offsetRaw)
+        //        {
+        //            var newBitmap = new Bitmap(6, 6);
 
-            return bitmapWithOffset;
-        }
+        //            for (var column = 0; column < columnsLength; ++column)
+        //            {
+        //                for (var raw = 0; raw < rawsLength; ++raw)
+        //                {
+        //                    //Console.WriteLine(bitmap.GetPixel(column, raw));
 
-        private static Int32 FindEdge(Bitmap bitmap, Direction direction)
-        {
-            var result = -1;
-            
-            switch (direction)
-            {
-                case Direction.Left:
-                    for (var x = 0; x < bitmap.Height; ++x)
-                    {
-                        var isWhiteRaw = true;
+        //                    newBitmap.SetPixel(column + offsetColumn, raw + offsetRaw, bitmap.GetPixel(column, raw));
+        //                }
+        //            }
 
-                        for (var y = 0; y < bitmap.Width; ++y)
-                        {
-                            var pixel = bitmap.GetPixel(x, y);
-                            
-                            if (pixel.Name != "ffffffff")
-                            {
-                                isWhiteRaw = false;
-                                
-                                break;
-                            }
-                        }
-
-                        if (!isWhiteRaw)
-                        {
-                            result = x;
-
-                            break;
-                        }
-                    }
-
-                    break;
-                case Direction.Right:
-                    for (var x = bitmap.Height - 1; x >= 0; --x)
-                    {
-                        var isWhiteRaw = true;
-
-                        for (var y = 0; y < bitmap.Width; ++y)
-                        {
-                            var pixel = bitmap.GetPixel(x, y);
-
-                            if (pixel.Name != "ffffffff")
-                            {
-                                isWhiteRaw = false;
-
-                                break;
-                            }
-                        }
-
-                        if (!isWhiteRaw)
-                        {
-                            result = x;
-                            
-                            break;
-                        }
-                    }
-
-                    break;
-                case Direction.Down:
-                    for (var x = bitmap.Width - 1; x >= 0; --x)
-                    {
-                        var isWhiteRaw = true;
-
-                        for (var y = 0; y < bitmap.Height; ++y)
-                        {
-                            var pixel = bitmap.GetPixel(y, x);
-
-                            if (pixel.Name != "ffffffff")
-                            {
-                                isWhiteRaw = false;
-
-                                break;
-                            }
-                        }
-
-                        if (!isWhiteRaw)
-                        {
-                            result = x;
-                            
-                            break;
-                        }
-                    }
-
-                    break;
-                case Direction.Up:
-                    for (var x = 0; x < bitmap.Width; ++x)
-                    {
-                        var isWhiteRaw = true;
-
-                        for (var y = 0; y < bitmap.Height; ++y)
-                        {
-                            var pixel = bitmap.GetPixel(y, x);
-
-                            if (pixel.Name != "ffffffff")
-                            {
-                                isWhiteRaw = false;
-
-                                break;
-                            }
-                        }
-
-                        if (!isWhiteRaw)
-                        {
-                            result = x;
-                            
-                            break;
-                        }
-                    }
-
-                    break;
-            }
-
-            return result;
-        }
-
-        private static Bitmap LoadImageAsBitmap(String filename)
-        {
-            var image = Image.FromFile("Images\\" + filename);
-
-            return new Bitmap(image);
-        }
-
-        private static Bitmap[] LoadImagesAsBitmapsFromDirectory(String path)
-        {
-            var images = Directory.GetFiles(path);
-
-            var bitmaps = new Bitmap[images.Length];
-            
-            for (var i = 0; i < bitmaps.Length; ++i)
-            {
-                bitmaps[i] = new Bitmap(images[i]);
-            }
-
-            return bitmaps;
-        }
+        //            newBitmap.Save($"{args[3]}\\{args[0]}_v{version++}.bmp");
+        //        }
+        //    }
+        //}
     }
 }

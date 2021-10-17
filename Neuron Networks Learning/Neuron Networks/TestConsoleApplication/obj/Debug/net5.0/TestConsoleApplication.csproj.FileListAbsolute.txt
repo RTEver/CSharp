@@ -55,3 +55,15 @@ C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks 
 C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\obj\Debug\net5.0\ref\TestConsoleApplication.dll
 C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\obj\Debug\net5.0\TestConsoleApplication.pdb
 C:\Users\Rimuru Tempest\OneDrive\Рабочий стол\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\obj\Debug\net5.0\TestConsoleApplication.genruntimeconfig.cache
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\ImageGenerator.deps.json
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\ImageGenerator.runtimeconfig.json
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\ImageGenerator.runtimeconfig.dev.json
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\ImageGenerator.exe
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\Images\Test.bmp
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\ImageGenerator.dll
+C:\Users\Phoenix\Desktop\CSharp\Neuron Networks Learning\Neuron Networks\TestConsoleApplication\bin\Debug\net5.0\ImageGenerator.pdb

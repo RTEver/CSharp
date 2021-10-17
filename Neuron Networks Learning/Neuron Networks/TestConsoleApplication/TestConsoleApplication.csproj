@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Libraries\NeuronNetworks\NeuronNetworks.csproj" />
+    <ProjectReference Include="..\Utilities\ImageGenerator\ImageGenerator.csproj" />
   </ItemGroup>
 
 </Project>
