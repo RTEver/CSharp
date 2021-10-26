@@ -1,0 +1,36 @@
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Phoenix\Desktop\CSharp\ASP.NET Core\Logging\Logging
+Processing request /
+Processing request /
+Processing request /
+Application is shutting down...
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Phoenix\Desktop\CSharp\ASP.NET Core\Logging\Logging
+Processing request /
+Processing request /
+Processing request /
+Application is shutting down...
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Phoenix\Desktop\CSharp\ASP.NET Core\Logging\Logging
+Processing request /
+Processing request /
+Processing request /
+Application is shutting down...
+Now listening on: https://localhost:5001
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Phoenix\Desktop\CSharp\ASP.NET Core\Logging\Logging
+Processing request /
+Processing request /
+Processing request /
+Application is shutting down...

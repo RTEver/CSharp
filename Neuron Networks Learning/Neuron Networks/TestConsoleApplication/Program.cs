@@ -64,7 +64,7 @@ namespace TestConsoleApplication
 
             var trainSet = GetTrainSet();
 
-            var topology = new RumelhartPerseptronTopology(ActivationFunction, 25, 1, new Int32[] { 6, 4, 2 });
+            var topology = new RumelhartPerseptronTopology(ActivationFunction, 25, 1, new Int32[] { 10, 4, 4 });
 
             var perseptron = new RumelhartPerseptron(topology)
             {
@@ -72,7 +72,7 @@ namespace TestConsoleApplication
                 Rate = 0.9f,
                 Impuls = 0.9f,
                 Epochs = 10000,
-                PrematureExitError = 0.001f,
+                PrematureExitError = 0.09f,
             };
 
             perseptron.Train();
