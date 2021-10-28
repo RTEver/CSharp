@@ -9,19 +9,39 @@ namespace ImageGenerator
     {
         private static void Main(String[] args)
         {
-            var alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            //var alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
+            //var generator = new Generator();
+
+            //var bitmaps = generator.GetBitmaps("Letters");
+
+            //for (var i = 0; i < bitmaps.Length; i += 2)
+            //{
+            //    generator.GenerateCopies($"Copies\\{alphabet[i / 2]}", bitmaps[i], $"{alphabet[i / 2]}");
+            //    generator.GenerateCopies($"Copies\\{alphabet[i / 2]}_small", bitmaps[i + 1], $"{alphabet[i / 2]}_small");
+            //}
+
+            //var generator = new Generator();
+
+            //var bitmaps = generator.GetBitmaps("Test figures/Squares");
+
+            //var offset = generator.GetOffset(bitmaps[0]);
+
+            //Console.WriteLine("width: {0} height: {1}", offset.Item1, offset.Item2);
 
             var generator = new Generator();
 
-            var bitmaps = generator.GetBitmaps("Letters");
+            var bitmaps = generator.GetBitmaps("Test figures/Squares");
 
-            for (var i = 0; i < bitmaps.Length; i += 2)
+            for (var i = 0; i < bitmaps.Length; ++i)
             {
-                generator.GenerateCopies($"Copies\\{alphabet[i / 2]}", bitmaps[i], $"{alphabet[i / 2]}");
-                generator.GenerateCopies($"Copies\\{alphabet[i / 2]}_small", bitmaps[i + 1], $"{alphabet[i / 2]}_small");
+                var color = (i == 0) ? "Blue" :
+                            (i == 1) ? "Green" : "Red";
+
+                generator.GenerateCopies($"Test figures/Squares/{color}", bitmaps[i], color);
             }
         }
-
+        
         //private static void Generate()
         //{
         //    var image = Image.FromFile($"{args[0]}.bmp");

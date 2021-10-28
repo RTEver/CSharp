@@ -1,0 +1,1 @@
+Make mini-simulation of our World with learning objects like human for example.

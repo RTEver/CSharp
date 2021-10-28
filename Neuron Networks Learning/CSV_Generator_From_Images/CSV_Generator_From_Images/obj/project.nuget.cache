@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "16q3iOTcAWdS0wJYGUEgsoZATEcH/wCCbSvEHALit3qIjvgVcjwW/1hb+XZtMcCbVdtJoykFawdFKLfCuEuvyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Phoenix\\Desktop\\CSharp\\Neuron Networks Learning\\CSV_Generator_From_Images\\CSV_Generator_From_Images\\CSV_Generator_From_Images.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phoenix\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Phoenix\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Phoenix\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

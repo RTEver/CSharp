@@ -59,45 +59,85 @@ namespace ImageGenerator
             var offsetX = default(Int32);
             var offsetY = default(Int32);
 
-            for (var column = 0; column < bitmap.Width; ++column)
+            for (var y = 0; y < bitmap.Height; ++y)
             {
-                var offsetYOnCurrentColumn = default(Int32);
+                var offsetXCurrentRaw = default(Int32);
 
-                for (var raw = 0; raw < bitmap.Height; ++raw)
+                for (var x = 0; x < bitmap.Width; ++x)
                 {
-                    var pixel = bitmap.GetPixel(column, raw);
-
-                    if (pixel.Name == "ff000000" || pixel.Name == "00000000")
+                    var pixel = bitmap.GetPixel(x, y);
+                    
+                    if (pixel.Name != "ffffffff")
                     {
-                        offsetYOnCurrentColumn = raw;
+                        offsetXCurrentRaw = x;
                     }
                 }
-
-                if (offsetYOnCurrentColumn > offsetY)
+                
+                if (offsetX < offsetXCurrentRaw)
                 {
-                    offsetY = offsetYOnCurrentColumn;
+                    offsetX = offsetXCurrentRaw;
                 }
             }
 
-            for (var raw = 0; raw < bitmap.Height; ++raw)
+            for (var x = 0; x < bitmap.Width; ++x)
             {
-                var offsetXOnCurrentRaw = default(Int32);
+                var offsetYCurrentColumn = default(Int32);
 
-                for (var column = 0; column < bitmap.Width; ++column)
+                for (var y = 0; y < bitmap.Height; ++y)
                 {
-                    var pixel = bitmap.GetPixel(column, raw);
+                    var pixel = bitmap.GetPixel(x, y);
 
-                    if (pixel.Name == "ff000000" || pixel.Name == "00000000")
+                    if (pixel.Name != "ffffffff")
                     {
-                        offsetXOnCurrentRaw = column;
+                        offsetYCurrentColumn = y;
                     }
                 }
 
-                if (offsetXOnCurrentRaw > offsetX)
+                if (offsetY < offsetYCurrentColumn)
                 {
-                    offsetX = offsetXOnCurrentRaw;
+                    offsetY = offsetYCurrentColumn;
                 }
             }
+
+            //for (var column = 0; column < bitmap.Width; ++column)
+            //{
+            //    var offsetYOnCurrentColumn = default(Int32);
+
+            //    for (var raw = 0; raw < bitmap.Height; ++raw)
+            //    {
+            //        var pixel = bitmap.GetPixel(column, raw);
+
+            //        if (pixel.Name == "ff000000" || pixel.Name == "00000000")
+            //        {
+            //            offsetYOnCurrentColumn = raw;
+            //        }
+            //    }
+
+            //    if (offsetYOnCurrentColumn > offsetY)
+            //    {
+            //        offsetY = offsetYOnCurrentColumn;
+            //    }
+            //}
+
+            //for (var raw = 0; raw < bitmap.Height; ++raw)
+            //{
+            //    var offsetXOnCurrentRaw = default(Int32);
+
+            //    for (var column = 0; column < bitmap.Width; ++column)
+            //    {
+            //        var pixel = bitmap.GetPixel(column, raw);
+
+            //        if (pixel.Name == "ff000000" || pixel.Name == "00000000")
+            //        {
+            //            offsetXOnCurrentRaw = column;
+            //        }
+            //    }
+
+            //    if (offsetXOnCurrentRaw > offsetX)
+            //    {
+            //        offsetX = offsetXOnCurrentRaw;
+            //    }
+            //}
 
             offsetX = bitmap.Width - offsetX - 1;
             offsetY = bitmap.Height - offsetY - 1;
@@ -116,26 +156,68 @@ namespace ImageGenerator
 
             var version = default(Int32);
 
-            var width = bitmap.Width - offset.Item1;
-            var height = bitmap.Height - offset.Item2;
+            //var width = bitmap.Width - offset.Item1;
+            //var height = bitmap.Height - offset.Item2;
 
-            for (var offsetColumn = 0; offsetColumn <= offset.Item1; ++offsetColumn)
+            for (var offsetY = 0; offsetY <= offset.Item2; ++offsetY)
             {
-                for (var offsetRaw = 0; offsetRaw <= offset.Item2; ++offsetRaw)
+                for (var offsetX = 0; offsetX <= offset.Item1; ++offsetX)
                 {
-                    var newBitmap = new Bitmap(bitmap.Width, bitmap.Height);
-
-                    for (var column = 0; column < width; ++column)
-                    {
-                        for (var raw = 0; raw < height; ++raw)
-                        {
-                            newBitmap.SetPixel(column + offsetColumn, raw + offsetRaw, bitmap.GetPixel(column, raw));
-                        }
-                    }
+                    var newBitmap = GenerateBitmapCopy(bitmap, (offsetX, offsetY));
 
                     newBitmap.Save($"{pathToFolder}\\{filename}_v{version++}.bmp");
                 }
             }
+            
+            //for (var offsetColumn = 0; offsetColumn <= offset.Item1; ++offsetColumn)
+            //{
+            //    for (var offsetRaw = 0; offsetRaw <= offset.Item2; ++offsetRaw)
+            //    {
+            //        var newBitmap = new Bitmap(bitmap.Width, bitmap.Height);
+
+            //        for (var column = 0; column < width; ++column)
+            //        {
+            //            for (var raw = 0; raw < height; ++raw)
+            //            {
+            //                newBitmap.SetPixel(column + offsetColumn, raw + offsetRaw, bitmap.GetPixel(column, raw));
+            //            }
+            //        }
+
+            //        newBitmap.Save($"{pathToFolder}\\{filename}_v{version++}.bmp");
+            //    }
+            //}
+        }
+
+        public Bitmap GenerateBitmapCopy(Bitmap bitmap, (Int32, Int32) offset)
+        {
+            var newBitmap = GenerateWhiteBitmap(bitmap);
+
+            for (var y = 0; y < bitmap.Height - offset.Item2; ++y)
+            {
+                for (var x = 0; x < bitmap.Width - offset.Item1; ++x)
+                {
+                    var color = bitmap.GetPixel(x, y);
+
+                    newBitmap.SetPixel(x + offset.Item1, y + offset.Item2, color);
+                }
+            }
+
+            return newBitmap;
+        }
+
+        public Bitmap GenerateWhiteBitmap(Bitmap bitmap)
+        {
+            var newBitmap = new Bitmap(bitmap.Width, bitmap.Height);
+
+            for (var y = 0; y < bitmap.Height; ++y)
+            {
+                for (var x = 0; x < bitmap.Width; ++x)
+                {
+                    newBitmap.SetPixel(x, y, Color.White);
+                }
+            }
+
+            return newBitmap;
         }
     }
 }
