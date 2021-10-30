@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Options;
 using System;
+using System.Text;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -19,6 +20,8 @@ namespace Routing
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<RouteOptions>(options =>
+                options.ConstraintMap.Add("position", typeof(PositionConstraint)));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -29,6 +32,22 @@ namespace Routing
                 app.UseDeveloperExceptionPage();
             }
 
+            var myRouteHandler = new RouteHandler(Handle);
+
+            var routeBuilder = new RouteBuilder(app, myRouteHandler);
+
+            routeBuilder.Routes.Add(new AdminRoute());
+
+            routeBuilder.MapRoute("default", "{controller=Home}/{action=Index}/{id:position?}");
+
+            app.UseRouter(routeBuilder.Build());
+
+            app.Run(async (context) =>
+            {
+                await context.Response.WriteAsync($"Main: {context.Items["Info"]}");
+            });
+
+            /*
             var routeBuilder = new RouteBuilder(app);
 
             routeBuilder.MapMiddlewareGet("{controller}/{action}", app =>
@@ -45,6 +64,7 @@ namespace Routing
             {
                 await context.Response.WriteAsync("Hello World!");
             });
+            */
 
             // Routing
             /*
@@ -103,6 +123,29 @@ namespace Routing
              *     });
              * });
              */
+        }
+
+        private async Task Handle(HttpContext context)
+        {
+            var routers = context.GetRouteData().Routers;
+
+            var result = new StringBuilder();
+
+            foreach (IRouter router in routers)
+            {
+                result.Append(router);
+                result.AppendLine();
+            }
+
+            await context.Response.WriteAsync($"{context.Items["Info"]}");
+
+            //var routeValues = context.GetRouteData().Values;
+
+            //var action = routeValues["action"].ToString();
+            //var name = routeValues["name"].ToString();
+            //var year = routeValues["year"].ToString();
+
+            //await context.Response.WriteAsync($"action: {action} | name: {name} | year:{year}");
         }
     }
 }
