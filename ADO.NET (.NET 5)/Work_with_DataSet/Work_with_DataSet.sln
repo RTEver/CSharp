@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlDataAdapter_LoadingDataInDataSet", "SqlDataAdapter_LoadingDataInDataSet\SqlDataAdapter_LoadingDataInDataSet.csproj", "{1AE0F695-8674-4242-B2E7-B7788B854573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Work_with_DataSet_without_Database", "Work_with_DataSet_without_Database\Work_with_DataSet_without_Database.csproj", "{FCB29E97-9218-4055-A1E2-2D848B8A36B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Save_DataSet_changes_in_Database", "Save_DataSet_changes_in_Database\Save_DataSet_changes_in_Database.csproj", "{18311DC5-B894-4E02-BD8C-880702D51809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE0F695-8674-4242-B2E7-B7788B854573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE0F695-8674-4242-B2E7-B7788B854573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE0F695-8674-4242-B2E7-B7788B854573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE0F695-8674-4242-B2E7-B7788B854573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB29E97-9218-4055-A1E2-2D848B8A36B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB29E97-9218-4055-A1E2-2D848B8A36B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB29E97-9218-4055-A1E2-2D848B8A36B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB29E97-9218-4055-A1E2-2D848B8A36B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18311DC5-B894-4E02-BD8C-880702D51809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18311DC5-B894-4E02-BD8C-880702D51809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18311DC5-B894-4E02-BD8C-880702D51809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18311DC5-B894-4E02-BD8C-880702D51809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14478E7E-9D7D-4F9C-B559-EB565C485893}
+	EndGlobalSection
+EndGlobal

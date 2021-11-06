@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = SqlDataAdapter_LoadingDataInDataSet
+build_property.ProjectDir = C:\Users\Phoenix\Desktop\CSharp\ADO.NET (.NET 5)\Work_with_DataSet\SqlDataAdapter_LoadingDataInDataSet\
